@@ -5,7 +5,7 @@
     <md:content-id>m00091</md:content-id>
     <md:uuid>ca5fd8f3-ab1c-4117-8c44-ccc9455dc1cf</md:uuid>
   </metadata>
-  <content>
+  <content class="introduction">
 <section id="sect-00001">
 <para id="para-00001">Placeholder Text</para>
 </section>
