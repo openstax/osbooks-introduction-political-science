@@ -1,0 +1,1048 @@
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url("./fonts/Montserrat-Bold.ttf");
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: auto;
+}
+
+@font-face {
+    font-family: "Montserrat-Regular";
+    src: url("./fonts/Montserrat-Regular.ttf");
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: auto;
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    overflow: auto;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 22px;
+}
+
+/* 
+html,
+body {
+    height: 100%;
+    background-color: #f4f4f4;
+    overflow: hidden;
+} */
+
+body {
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+.mainContainer {
+    overflow: auto;
+}
+
+button[aria-pressed="true"]>span {
+    font-weight: bold;
+}
+
+
+.container {
+    width: 100%;
+    padding-right: 110px;
+    padding-left: 110px;
+    margin-right: auto;
+    margin-left: auto;
+    /* overflow-y: auto; */
+    height: 100%;
+    position: relative;
+
+}
+
+
+*,
+::after,
+::before {
+    box-sizing: border-box;
+}
+
+#title {
+    font-family: Montserrat-Bold;
+    color: #001a36;
+    font-size: 31px;
+    margin-top: 74px;
+
+}
+
+#title>span {
+    display: block;
+}
+
+
+/* #instructionbold {
+    margin: 1% 5% 0% 5%;
+    font-weight: bold;
+    margin-top: 1%;
+    width: 90%;
+} */
+
+.settingContainer {
+    top: 25px;
+    right: 24px;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    z-index: 3;
+}
+
+.setting {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    background: none;
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+
+}
+
+.setting>svg {
+    width: 100%;
+    height: 100%;
+}
+
+.settinToolsContainer {
+
+    background: #BFBFBF;
+    padding: 15px;
+    border-radius: 6px;
+    color: #001936;
+    box-shadow: 0px 3px 6px 0px rgb(112 112 112);
+    -webkit-box-shadow: 0px 3px 6px 0px rgb(112 112 112);
+    -moz-box-shadow: 0px 3px 6px 0px rgba(112, 112, 112, 1);
+    position: absolute;
+    top: 21px;
+    right: 18px;
+    width: 450px;
+    z-index: 1;
+    display: none;
+}
+
+.toolsCnt {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 0px;
+}
+
+.close {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    right: -6px;
+    top: -6px;
+    border-radius: 50%;
+    cursor: pointer;
+    background-image: url(../images/close.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.toolContainer {
+
+    background: none;
+    padding: 0px;
+    outline: none;
+    border: none;
+    font-size: 11px;
+    width: 80px;
+    text-align: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-family: Montserrat-Regular;
+}
+
+.toolsCnt {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 0px;
+}
+
+.toolContainer_0 {
+    font-size: 15px;
+    text-align: left;
+    width: 80px;
+}
+
+.toolContainer_4 {
+    margin-right: 0px;
+}
+
+.tool {
+    display: block;
+    margin: 0px auto 5px auto;
+    cursor: pointer;
+}
+
+.tool_0 {
+    display: none;
+}
+
+/* 
+.tool_1 {
+    background-image: url(../images/default.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.tool_2 {
+    background-image: url(../images/red-green.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.tool_3 {
+    background-image: url(../images/blue-yellow.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.tool_4 {
+    background-image: url(../images/highcontrast.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+} */
+/* 
+.toolTxt_0 {
+    margin-left: -11px;
+    margin-top: 5px;
+    width: 83px;
+}
+
+.toolTxt_1 {
+    margin-left: 0px;
+    margin-top: 5px;
+
+}
+
+.toolTxt_2 {
+    margin-left: -4px;
+    margin-top: 5px;
+}
+
+.toolTxt_3 {
+    margin-left: -7px;
+    margin-top: 5px;
+}
+
+.toolTxt_4 {
+    margin-left: -7px;
+    margin-top: 5px;
+} */
+
+
+.showhide {
+    display: block;
+}
+
+
+#instructionnorm {
+    font-family: Montserrat-Regular;
+    color: #001a36;
+    font-size: 22px;
+    margin-top: 20px;
+    padding-right: 25%;
+    line-height: 1.5;
+}
+
+/* 
+#instructionnorm>span {
+    display: block;
+    padding-right: 25%;
+    line-height: 1.5;
+} */
+
+#resultDiv {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    box-shadow: -0.2px 0px 0px #707070, 0.2px 0px 0px #707070;
+    border-radius: 10px;
+
+}
+
+.content {
+    width: 100%;
+    min-height: auto;
+    background: white;
+    margin-top: 60px;
+    position: relative;
+    overflow: auto;
+    /* min-height: 591px; */
+    border-radius: 10px;
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+}
+
+.contentMac {
+
+    margin-top: 35px;
+    min-height: 586px;
+
+}
+
+
+.nav-container {
+    width: 100%;
+    position: fixed;
+    height: 104px;
+    bottom: 0;
+    background: #f4f4f4;
+    /* left: 1%; */
+}
+
+.navSpace {
+    width: 100%;
+    height: 112px;
+    /* background: #f4f4f4; */
+}
+
+#loadingImg {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -100px;
+    /* half width*/
+    margin-top: -100px;
+    /* half height*/
+}
+
+.leftContainer {
+    float: left;
+    width: 59%;
+    padding: 0% 60px;
+    /* margin-left: 3%; */
+    margin: 53px 0%;
+}
+
+.leftContainer h2 {
+    padding-bottom: 2%;
+    font-family: Montserrat-Bold;
+    color: #001a36;
+    font-size: 25px;
+}
+
+
+.leftContainer .leftSubContainer {
+
+    font-size: 22px;
+    line-height: 1.5;
+}
+
+.leftSubContainer p {
+    padding: 5px 0px
+}
+
+.rightContainer {
+    float: right;
+    width: 41%;
+    max-width: 670px;
+    height: 100%;
+    /* padding: 35px 35px 35px 35px; */
+    padding: 60px 60px 60px 0;
+
+}
+
+.imgContainer {
+    padding-top: 80%;
+}
+
+.pic {
+    width: 100%;
+    /* margin-top: 6px; */
+    /* padding: 0 35px; */
+}
+
+.imagecitation {
+    margin-top: 34px;
+    font-family: Montserrat-Regular;
+    color: #707070;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.fullContent {
+    width: 100%;
+    /* display: table; */
+    margin: 35px 0% 0% 0%;
+    /* padding-bottom: 30px; */
+}
+
+.tableCell {
+    /* vertical-align: middle; */
+    /* display: table-cell; */
+
+}
+
+
+
+.prev_btn {
+    background: transparent;
+    width: 58px;
+    height: 58px;
+    /* background-image: url(../images/prev_btn.png);
+    background-repeat: no-repeat;
+    background-size: contain; */
+    cursor: pointer;
+    float: left;
+    margin-left: 110px;
+    margin-top: 14px;
+    display: none;
+}
+
+.next_btn {
+    background: transparent;
+    width: 58px;
+    height: 58px;
+    /* background-image: url(../images/next_btn.png);
+    background-repeat: no-repeat;
+    background-size: contain; */
+    cursor: pointer;
+    float: right;
+    margin-right: 110px;
+    margin-top: 14px;
+    transform: rotate(180deg);
+}
+
+
+.reset_btn {
+    background: transparent;
+    display: none;
+    width: 58px;
+    height: 58px;
+    /* background-image: url(../images/reset_btn.png);
+    background-repeat: no-repeat;
+    background-size: contain; */
+    cursor: pointer;
+    float: right;
+    margin-right: 110px;
+    margin-top: 14px;
+}
+
+.prev_btn>svg,
+.next_btn>svg,
+.reset_btn>svg {
+    width: 100%;
+    height: 100%;
+}
+
+input[type=button] {
+    border: 0;
+    outline: 0;
+    font-size: 0px;
+    background-color: transparent;
+}
+
+
+input[type=button]:focus {
+    outline: 2px solid rgb(0, 0, 0);
+    border: 0px solid;
+}
+
+button {
+    border: 0px solid transparent;
+    outline: 0px solid transparent;
+    font-size: 0px;
+}
+
+button:focus {
+    outline: 2px solid rgb(0, 0, 0);
+    border: 0px solid transparent;
+}
+
+.template {
+    width: 99%;
+    height: 99%;
+    position: absolute;
+    top: 0.5%;
+    left: 0.5%;
+}
+
+/* 
+
+input:focus {
+    border-color: black;
+    border: 2px solid;
+} */
+
+.bottomNavbar {
+    overflow: hidden;
+    /* background-color: #333; */
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.bottomNavbar .span {
+    display: block;
+    color: #d1d1d1;
+    text-align: center;
+    padding: 11px 5px;
+    text-decoration: none;
+    font-size: 17px;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.bottomNavbar .prev:hover,
+.bottomNavbar .next:hover {
+    color: #4b5c70;
+    /* color: black; */
+}
+
+.bottomNavbar .counter,
+.bottomNavbar .total,
+.bottomNavbar .txt {
+    color: #4b5c70;
+}
+
+.bottomNavbar .navCnt {
+    width: 160px;
+    margin: 0 auto;
+    height: 43px;
+}
+
+.bottomNavbar .home {
+    width: 34px;
+    height: 34px;
+    background-image: url(../images/homeIcon.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/* iphone x portrait mode*/
+@media only screen and (min-device-width : 280px) and (max-device-width : 812px) and (orientation : portrait) {
+
+    body {
+        font-size: 16px;
+    }
+
+    .settinToolsContainer {
+        top: 10px;
+        right: 15px;
+    }
+
+    .settingContainer {
+        width: 18.5px;
+        height: 18.5px;
+
+        top: 16px;
+        right: 10px;
+    }
+
+    .imagecitation {
+        margin-top: 12px;
+        font-size: 10px;
+    }
+
+    .setting {
+        width: 18.5px;
+        height: 18.5px;
+
+        top: 0px;
+        right: 10px;
+    }
+
+    .setting>svg {
+        width: 100%;
+        height: 100%;
+    }
+
+    .popup {
+        position: absolute;
+        right: 63px;
+        top: -2px;
+    }
+
+    .navSpace {
+        height: 80px;
+    }
+
+    .leftContainer {
+        float: left;
+        width: 100%;
+        padding: 18px 18px;
+        overflow-y: auto;
+        margin: 0;
+    }
+
+    .afltoxin,
+    .light,
+    .diet {
+        background-position: center;
+    }
+
+    .imgContainer {
+        padding-top: 66%;
+    }
+
+    .rightContainer {
+        float: left;
+        width: 100%;
+        height: auto;
+        padding: 18px 18px 18px 18px;
+    }
+
+
+
+    .content {
+        margin-top: 30px;
+        /* padding-bottom: 5px; */
+        min-height: 538px;
+    }
+
+    #title {
+        margin-top: 40px;
+        font-size: 18px;
+        width: 100%;
+    }
+
+    .container {
+        width: 100%;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .leftContainer h2 {
+        font-size: 16px;
+    }
+
+    .leftContainer .leftSubContainer {
+
+        font-size: 16px;
+    }
+
+    #instructionnorm {
+        font-size: 14px;
+        padding-right: 0px;
+    }
+
+    .tableCell {
+        font-size: 16px;
+    }
+
+    .next_btn,
+    .prev_btn,
+    .reset_btn {
+        width: 43px;
+        height: 43px;
+    }
+
+    .next_btn>svg,
+    .prev_btn>svg,
+    .reset_btn>svg {
+        width: 100%;
+        height: 100%;
+    }
+
+
+    .next_btn,
+    .reset_btn {
+        margin-right: 20px;
+    }
+
+    .prev_btn {
+        margin-left: 20px;
+    }
+
+    .nav-container {
+        height: 72px;
+
+    }
+
+}
+
+/* iphone x portrait mode*/
+@media only screen and (min-device-width : 320px) and (max-device-width : 812px) and (orientation : landscape) {
+    body {
+        font-size: 16px;
+    }
+
+    .setting {
+        width: 32px;
+        height: 32px;
+        top: 0px;
+        right: 16px;
+    }
+
+    .imagecitation {
+
+        font-size: 12px;
+    }
+
+    .navSpace {
+        height: 80px;
+    }
+
+    /* Styles */
+    .content {
+        margin-top: 30px;
+        /* padding-bottom: 70px; */
+        min-height: 385px;
+    }
+
+    .fullContent {
+        margin: 35px 0% 35px 0%;
+    }
+
+    #title {
+        margin-top: 40px;
+        font-size: 18px;
+    }
+
+    .container {
+        width: 100%;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .leftContainer h3 {
+        font-size: 16px;
+    }
+
+    .leftContainer .leftSubContainer {
+
+        font-size: 16px;
+    }
+
+    #instructionnorm {
+        font-size: 16px;
+        padding-right: 0px;
+    }
+
+    .tableCell {
+        font-size: 16px;
+    }
+
+    .next_btn,
+    .prev_btn,
+    .reset_btn {
+        width: 43px;
+        height: 43px;
+    }
+
+    .next_btn>svg,
+    .prev_btn>svg,
+    .reset_btn>svg {
+        width: 100%;
+        height: 100%;
+    }
+
+    .next_btn,
+    .reset_btn {
+        margin-right: 20px;
+    }
+
+    .prev_btn {
+        margin-left: 20px;
+    }
+
+    .nav-container {
+        height: 72px;
+
+    }
+
+    .settingContainer {
+        top: 3px;
+    }
+
+    .popup {
+        top: -17px;
+    }
+
+}
+
+
+/* ipad portrait mode*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+    body {
+        font-size: 16px;
+    }
+
+    .setting {
+        width: 35.5px;
+        height: 35.5px;
+        /* top: 14px; */
+        right: 0px;
+    }
+
+    .imagecitation {
+
+        font-size: 12px;
+    }
+
+    .settinToolsContainer {
+        top: 10px;
+        right: 11px;
+    }
+
+    .navSpace {
+        height: 72px;
+    }
+
+    .content {
+        /* padding-bottom: 5px; */
+        min-height: 800px;
+        margin-top: 30px;
+    }
+
+    .leftContainer {
+        float: left;
+        width: 100%;
+        padding: 18px 18px;
+        overflow-y: auto;
+        margin: 0;
+    }
+
+    .afltoxin,
+    .light,
+    .diet {
+        background-position: center;
+    }
+
+    .imgContainer {
+        padding-top: 66%;
+    }
+
+    .rightContainer {
+        float: left;
+        width: 100%;
+        height: auto;
+        padding: 18px 18px;
+    }
+
+
+
+
+    #title {
+        margin-top: 40px;
+        font-size: 18px;
+    }
+
+    .container {
+        width: 100%;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .leftContainer h3 {
+        font-size: 16px;
+    }
+
+    .leftContainer .leftSubContainer {
+
+        font-size: 16px;
+    }
+
+    #instructionnorm {
+        font-size: 14px;
+        padding-right: 0px;
+    }
+
+    .tableCell {
+        font-size: 16px;
+    }
+
+    .next_btn,
+    .prev_btn,
+    .reset_btn {
+        width: 43px;
+        height: 43px;
+    }
+
+    .next_btn,
+    .reset_btn {
+        margin-right: 20px;
+    }
+
+    .prev_btn {
+        margin-left: 20px;
+    }
+
+    .nav-container {
+
+        height: 72px;
+
+    }
+
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+    .content {
+        min-height: 380px;
+    }
+
+}
+
+
+/* ipad pro portrait mode*/
+@media only screen and (min-device-width : 1024px) and (max-device-width : 1366px) and (orientation : portrait) {
+
+    .settingContainer {
+        top: 14px;
+        right: 25px;
+    }
+
+    .imagecitation {
+
+        font-size: 15px;
+    }
+
+    .settinToolsContainer {
+        top: 10px;
+        right: 15px;
+    }
+
+    .setting {
+        width: 35.5px;
+        height: 35.5px;
+        top: 0px;
+        right: 0px;
+        margin-top: 14px;
+    }
+
+    .popup {
+        right: 65px;
+    }
+
+    .navSpace {
+        height: 72px;
+    }
+
+    .content {
+        /* padding-bottom: 70px; */
+        min-height: 1067px;
+        margin-top: 30px;
+    }
+
+    #title {
+        margin-top: 40px;
+        font-size: 31px;
+    }
+
+    #instructionnorm {
+        font-size: 22px;
+        padding-right: 0px;
+    }
+
+    .leftContainer .leftSubContainer {
+
+        font-size: 16px;
+    }
+
+}
+
+
+/* ipad pro portrait mode*/
+@media only screen and (min-device-width : 1025px) and (max-device-width : 1366px) and (orientation : landscape) {
+
+
+    .content {
+        /* padding-bottom: 70px; */
+        min-height: 689px;
+        margin-top: 30px;
+    }
+
+    .fullContent {
+        margin: 35px 0% 35px 0%;
+    }
+}
+
+
+/* 
+@media only screen and (max-width: 768px) {
+    .settinToolsContainer {
+        width: 210px;
+        height: auto;
+        right: 20px;
+    }
+
+    .settinToolsContainer .toolTxt_0 {
+        width: 100%;
+        margin: 0px;
+    }
+
+    .settinToolsContainer .toolContainer_0 {
+        display: block;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .toolContainer_4,
+    .toolContainer_3,
+    .toolContainer_2,
+    .toolContainer_1 {
+        width: 85px;
+        text-align: center;
+        margin: 0px 0px 10px 0px;
+    }
+
+    button.setting svg {
+        max-width: 100%;
+    }
+
+} */
+
+@media (max-width: 991px) {
+    .settinToolsContainer {
+        width: 180px;
+        padding: 15px 0px;
+    }
+
+    .toolContainer_0 {
+        text-align: center;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+
+    .leftContainer {
+        float: left;
+        width: 100%;
+        padding: 18px 18px;
+        overflow-y: auto;
+        margin: 0;
+    }
+
+    .rightContainer {
+        float: left;
+        width: 100%;
+        height: auto;
+        padding: 18px 18px 18px 18px;
+    }
+}
+
+.pic_desc {
+
+    font-size: 15px;
+    margin-top: 8.25px;
+    font-family: Montserrat-Light;
+    color: rgb(112, 112, 112);
+}
