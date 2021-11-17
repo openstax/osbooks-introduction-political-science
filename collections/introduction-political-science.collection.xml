@@ -34,8 +34,6 @@
             <module document="m00008"/>
             <module document="m00009"/>
             <module document="m00010"/>
-            <module document="m00011"/>
-            <module document="m00012"/>
             <module document="m00013"/>
             <module document="m00014"/>
           </content>
@@ -75,7 +73,7 @@
       <md:title>GROUPS</md:title>
       <content>
         <subcollection>
-          <md:title>Collective Action and Culture</md:title>
+          <md:title>The Fundamentals of Group Political Activity</md:title>
           <content>
             <module document="m00029"/>
             <module document="m00030"/>
