@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+<templatetitle><span>Case Study: How Different Political Actors Approach Migration Issues</span></templatetitle>
+<instruction>
+    <instructionnorm><span>Scroll down to read each slide in the case study. When you have finished a slide, click on the
+arrow to go to the next slide. Read through the interaction as many times as you need. There is no time
+limit and this activity is not graded.</span></instructionnorm>
+</instruction>
+<!-- slide 1 -->
+  <content>
+    <leftcontent>
+     <contenttitle>Global Migration</contenttitle>
+      <contentdata>
+      <para>Migrants founded the United States, and migrants continue to enter the country at high rates. World Bank figures as of 2019 (see map) show the United States ranked first in net number of migrants between 2012 and 2017. The over 4.8 million net migrants to the United States during that period were nearly double the over 2.7 million who entered the second-ranked nation, Germany, during the same period (UN Population Division, "Net Migration"). Often, people migrate because the destination country provides better economic outcomes or a better distribution of public goods.
+      However, an influx of migrants may strain a state's resources, leading to suboptimal outcomes.</para>
+      
+       
+      </contentdata>
+     </leftcontent>
+     <rightcontent>
+        <picture alt="A map of the world shades countries to indicate overall net migration figures. The United States, Germany, and Turkey have the highest net numbers of migrants, at over 1.42 million each. Countries such as Mexico, Venezuela, India, and China, among others, have the greatest negative net migration, with more than negative 1.74 million net migrants." picname="OPX_PoliSci_Ch01_Med02.jpg"></picture>
+        <imagecitation>The World Bank, CC-BY 4.0</imagecitation>
+    </rightcontent>
+  </content>
+  
+  <!-- slide 2 -->
+  <content>
+    <leftcontent> 
+      <contenttitle>Studying Migration</contenttitle>
+      <contentdata>
+        <para>War, famine, and the prospect of greater economic opportunity lead individuals to seek better lives, accelerating the pace of global migration. Some states with high rates of migration face the challenge of continuing to provide for native citizenry while also accepting migrants. While providing more services to migrants may carry costs, migrants may also strengthen economic growth. Individuals, groups, institutions, and the international community seek solutions to the challenges of both lawful and unlawful migration as well as refugee and asylum claims.</para>
+        
+        </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture  alt="A throng of adults, many carrying small children, crowd the open doors of a passenger train, attempting to board." picname="20643292773_5dee96f0fe_o.jpg"></picture>
+        <imagecitation>modification of work "Syrian Refugees" by Freedom House/flickr, Public Domain</imagecitation>
+    </rightcontent>
+  </content>
+  
+<!-- slide 3 -->
+  <content>
+    <leftcontent> 
+      <contenttitle>Individuals</contenttitle>
+      <contentdata>
+        <para>Immigration—in particular, illegal immigration and refugees—is a hot-button issue around the world. In democracies, people often use their votes to try to influence immigration policy. During the 2020 presidential election season in the United States, 52 percent of registered voters said the issue of immigration was “very important” to their vote (Pew Research Center, <em>Election 2020</em>), and in a separate poll, 57 percent of respondents said that they disapproved of the way Donald Trump was handling the issue (ANES, "2020"). Similarly, migration was a cornerstone of the Brexit debate in the UK, where many disagreed with the EU immigration regulations to which the UK was bound.</para>
+        
+      </contentdata>
+    </leftcontent>
+    <rightcontent>
+        <picture alt="A bar graph shows that 52 percent of registered voters named immigration as very important to how they voted in the 2020 US presidential election. Other issues identified as very important were the economy, with 79 percent of voters; health care, 68 percent; Supreme Court appointments, 64 percent; the coronavirus outbreak, 62 percent; violent crime, 59 percent; foreign policy, 57 percent; gun policy, 55 percent; race and ethnic inequality, 52 percent; economic inequality, 49 percent; climate change, 42 percent; and abortion, 40 percent." picname='OPX_PoliSci_Ch01_Med01.svg'></picture>
+        <imagecitation>attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license</imagecitation>
+    </rightcontent>
+  </content>
+
+  
+<!-- slide 4 -->
+  <content>
+    <leftcontent> 
+      <contenttitle>Groups</contenttitle>
+      <contentdata>
+        <para>Groups, both formal and informal, also help shape policy. In the United States, groups such as the American Civil Liberties Union (ACLU) organize protests or engage in litigation to shape migration policy. In June 2021, the ACLU sued the Biden administration over the transfer of undocumented migrants from one correctional facility to another, a move that often strips detainees' access to their lawyers and support networks (ACLU, "Lawsuit"). At the same time, in the United States and in other countries, groups such as the Alternative for Democracy (AfD) party in Germany throw their support behind anti-migrant policies.</para>
+        
+      </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="A crowd of people at an outdoor protest hold up signs with slogans such as Protect Due Process, Unite Families, and Comprehensive Immigration Reform Now. Several people at the front of the crowd wear blue shirts that read I Love Immigrant New York." picname='slide4.jpg'></picture>
+        <imagecitation>"Immigration Rally" by Boss Tweed/flickr, CC BY 2.0</imagecitation>
+    </rightcontent>
+  </content>
+
+<!-- slide 5 -->
+  <content>
+    <leftcontent> 
+      <contenttitle>Institutions</contenttitle>
+      <contentdata>
+        <para>In the United States, federal and state institutions enact immigration rules and policies. US presidents have used executive orders to set immigration policy, and approximately 200 cities and counties have become "sanctuary" jurisdictions, challenging Immigration and Customs Enforcement efforts to detain and deport undocumented migrants (Vaughn and Griffith, "Map"). Former German chancellor Angela Merkel, with strong public backing, sought greater educational and economic opportunities for refugees. From 2015 to 2017, Germany admitted 1.7 million asylum seekers. Merkel was a key leader on immigration policy both in the German parliament and among regional partners in the EU.</para>
+       
+      </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="German chancellor Angela Merkel enters a conference with the words Supporting Syria and the Region, London 2016, in large letters on the wall behind her. She walks and speaks with another conference attendee. " picname='slide5.jpg'></picture>
+        <imagecitation>"Angela Merkel, Chancellor of Germany" by Adam Brown/Crown Copyright/flickr, public domain</imagecitation>
+    </rightcontent>
+  </content>
+
+<!-- slide 6 -->
+  <content>
+    <leftcontent> 
+      <contenttitle>The International Community</contenttitle>
+      <contentdata>
+     
+       <para>The international community, through both formal institutions such as the United Nations and NGOs (nongovernmental organizations) such as Amnesty International, continues to act to aid migrants. While domestic actors generally focus on the effects of migration on policy and the economy, the international community tends to focus its efforts on aiding refugees, asylum seekers, and internally displaced persons ("migrants" who never cross borders). Both Amnesty International and Human Rights Watch are examples of NGOs that provide support for migrants, especially those who flee war, famine, or persecution. </para>
+       
+
+        
+      </contentdata>
+   
+      </leftcontent>
+    <rightcontent>
+        <picture alt="A boy carries a plastic tub of packaged food, wrapped in weather-resistant material stamped with the logo of the Office of the United Nations High Commissioner for Refugees, down a dusty road lined with small identical dwellings with pitched roofs." picname='slide6.jpg'></picture>
+        <imagecitation>"Bahn Refugee Camp, 50km from the Liberia/Ivory Coast Border" by UK Department for International Development/flickr, CC BY 2.0</imagecitation>
+    </rightcontent>
+  </content>
+
+<!-- slide 7 -->
+<content>
+    <leftcontent> 
+      <contenttitle>Conclusion</contenttitle>
+      <contentdata>
+     
+       <para>When the efforts of individuals, groups, institutions, or international organizations align with regard to issues such as migration, they can lead to progress. When different stakeholders have different purposes, those efforts can lead, as they often do, to disarray and conflict. Rarely is a single actor to blame. Rarely is a single institution in charge. Each political actor weighs the advantages and disadvantages of policy outcomes and seeks the result that will best support its goals in an ever-changing world.</para>
+       
+
+        
+      </contentdata>
+   
+      </leftcontent>
+    <rightcontent>
+        <picture alt="In a row of seated panelists, one leans forward, speaking into a microphone, while other panelists look on." picname='slide7.jpg'></picture>
+        <imagecitation>"06062013 - ED Policy Brief - Immigration Reform 111" by US Department of Education/flickr, CC BY 2.0</imagecitation>
+    </rightcontent>
+  </content>
+
+<!-- slide 8 -->
+ <content>
+    <leftcontent> 
+      <contenttitle>References</contenttitle>
+      <contentdata>
+        <!-- <para><h3></h3></para> -->
+          <para>American Civil Liberties Union, "Lawsuit Marks ACLU's First Immigration Challenge Filed against Biden Administration," ACLU, June 30, 2021, <a target="_blank" href="https://www.aclu.org/press-releases/groups-sue-biden-administration-halt-illegal-transfer-immigrant-detainees-new-jersey">https://www.aclu.org/press-releases/groups-sue-biden-administration-halt-illegal-transfer-immigrant-detainees-new-jersey</a>.</para>
+          <para>American National Election Studies, "2020 Time Series Study," July 19, 2021, <a target="_blank" href="https://electionstudies.org/data-center/2020-time-series-study/">https://electionstudies.org/data-center/2020-time-series-study/</a>.</para>
+          <para>Jessica M. Vaughn and Bryan Griffith, "Map: Sanctuary Cities, Counties, and States," Center for Immigration Studies, updated March 22, 2021, <a target="_blank" href="https://cis.org/Map-Sanctuary-Cities-Counties-and-States">https://cis.org/Map-Sanctuary-Cities-Counties-and-States</a>.</para>
+          <para>Pew Research Center, <em>Election 2020: Voters Are Highly Engaged, but Nearly Half Expect to Have Difficulties Voting</em> (Washington, DC: Pew Research Center, 2020), <a target="_blank" href="https://pewrsr.ch/3d0VX2o">https://pewrsr.ch/3d0VX2o</a>.</para>
+
+           <para>United Nations Populations Division, "Net Migration," The World Bank, World Bank Group, 2019, <a target="_blank" href="https://data.worldbank.org/indicator/SM.POP.NETM?view=map">https://data.worldbank.org/indicator/SM.POP.NETM?view=map</a>.</para>
+
+      </contentdata>
+   
+      </leftcontent>
+    <!-- <rightcontent>
+        <picture alt="A child’s legs are visible under a table in front of a wall lined with lockers, but their upper body is obscured by a large cardboard tabletop booth, adorned with red and white balloons and hand-painted with the word VOTE!" picname='30751203172_da3c04d69f_o.jpg'></picture>
+        <imagecitation>"Mock Election Day" by Phil Roeder/flickr, CC BY 2.0</imagecitation>
+    </rightcontent> -->
+  </content>
+
+  
+
+</dataset>

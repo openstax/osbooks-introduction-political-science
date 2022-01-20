@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+    <focuscolor color="#000000,#000000,#000000,#000000"></focuscolor>
+    <headingtitle fontfamily="Montserrat-Bold" color="#001a36"></headingtitle>
+    <instructionnorm fontfamily="Montserrat-Regular" color="#4a4545"></instructionnorm>
+    <contenttitle fontfamily="Montserrat-Bold" color="#4a4545"></contenttitle>
+    <contentdata fontfamily="Montserrat-Regular" color="#4a4545"></contentdata>
+    <setting>
+        <styleitem txt="Color Scheme" fontfamily="Montserrat-Bold" color="#001936"></styleitem>
+        <styleitem colors="#001a36,#4a4545,#C7EBF2" txt="Default" fontfamily="Montserrat-Regular" tooltextcolor="#001936" picname='default.svg'></styleitem>
+        <styleitem colors="#001783,#4a4545,#6C9BFF" txt="Scheme 1" fontfamily="Montserrat-Regular" tooltextcolor="#001936" picname='red-green.svg'></styleitem>
+        <styleitem colors="#001C5D,#4a4545,#7FA8FC" txt="Scheme 2" fontfamily="Montserrat-Regular" tooltextcolor="#001936" picname='blue-yellow.svg'></styleitem>
+        <styleitem colors="#43596F,#4a4545,#79E6FF" txt="Scheme 3" fontfamily="Montserrat-Regular" tooltextcolor="#001936" picname='highcontrast.svg'></styleitem>
+    </setting>
+</dataset>
