@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+<templatetitle><span>Case Study: Does Encouraging Citizens to Vote by Mail Encourage Political Participation?</span></templatetitle>
+<instruction>
+    <instructionnorm><span>Scroll down to read each slide in the case study. When you have finished a slide, click on the arrow to go to the next slide. Read through the interaction as many times as you need. There is no time limit and this activity is not graded.</span></instructionnorm>
+</instruction>
+  <content>
+    <leftcontent>
+     <contenttitle>Why Do We Vote by Mail?</contenttitle>
+      <contentdata>
+      <para>Every American citizen is born with the right to vote or acquires it through naturalization, regardless of any circumstances that might prevent them from accessing a voting booth. Absentee voting via mail-in ballots protects the voting rights of citizens who cannot make it to a voting place for reasons such as illness, military service, or living outside of the country.</para>
+      <para>Absentee or mail-in ballots were first used in the United States during the Civil War, when both Union and Confederate soldiers were given the opportunity to cast ballots from the battlefield that would be counted in their home jurisdictions (MIT Election Data + Science Lab, "Voting by Mail").</para>
+       
+      </contentdata>
+     </leftcontent>
+     <rightcontent>
+        <picture alt="Large white signs that read “Vote Here” lean in the grass against electrical poles and street signs on the side of a curving road." picname="50564380026_735a794c6b_o.jpg"></picture>
+        <imagecitation>"Election Day 2020" by Phil Roeder/flickr, CC BY 2.0</imagecitation>
+    </rightcontent>
+  </content>
+  
+  <content>
+    <leftcontent> 
+      <contenttitle>Where Do We Vote by Mail in the US?</contenttitle>
+      <contentdata>
+        <para>At the start of 2020, five states—Colorado, Oregon, Hawaii, Utah, and Washington—conducted all elections entirely by mail (National Conference of State Legislatures, “Voting Outside”), while 29 other states and the District of Columbia allowed all eligible voters to request a mail-in ballot. The remaining 16 states allowed absentee voting but required an excuse, such as an illness or hardship (Fernekes and Orey, "Voting in the Time"). However, during the COVID-19 pandemic, many states lifted exemptions on the use of mail-in ballots for the 2020 general election and allowed voters to vote early via  drop boxes or early voting stations.</para>
+        
+        </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture  alt="A bar graph shows gradual increases in early and mail-in voting and a decrease in Election Day voting between 1992 and 2016. Between 2016 and 2020, mail-in voting rises sharply and Election Day voting falls sharply, while early in-person voting increases less sharply but still reaches a record high." picname="OPX_PoliSci_Ch05_Med01.svg"></picture>
+        <imagecitation>source: www.census.gov/topics/public-sector/voting.html</imagecitation>
+    </rightcontent>
+  </content>
+  
+
+  <content>
+    <leftcontent> 
+      <contenttitle>The Downsides of Vote by Mail</contenttitle>
+      <contentdata>
+        <para>Voting by mail is not without its problems. Often, mail-in ballots are not counted as consistently as ballots cast in person. Why is this? Mail-in ballots may not be received in time, particularly during a time such as a pandemic, when mail service is slower. In addition, it takes more time to identify and correct errors on ballots cast by mail. During the COVID-19 pandemic, local officials were tasked with distributing and counting an unprecedented number of mail-in ballots—something most had never done before.</para>
+        
+      </contentdata>
+    </leftcontent>
+    <rightcontent>
+        <picture alt="A hand inserts an envelope marked “Ballot Enclosed” into a slot in a white metal ballot box on a sidewalk." picname='276749421_fda21394f4_o.jpg'></picture>
+        <imagecitation>"Casting My Ballot" by Chris Phan/flickr, CC BY 2.0</imagecitation>
+    </rightcontent>
+  </content>
+
+  
+
+  <content>
+    <leftcontent> 
+      <contenttitle>Vote by Mail: Can It Boost Turnout?</contenttitle>
+      <contentdata>
+        <para>During the COVID-19 pandemic, when strict stay-at-home measures were in place in many local jurisdictions, mail-in ballots provided a safe alternative—and, in some cases, the only avenue—for people to be able to vote. During this time, researchers at the University of Pennsylvania decided to find out if sending postcards to encourage people to apply to vote by mail would affect turnout. Two weeks before the June 2 primary election in 2020, researchers sent 46,960 postcards to randomly selected Philadelphia residents with information about how to request a mail-in ballot (Hopkins et al., "Results").</para>
+        
+      </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="A postal worker and a US Army sergeant stand at a large table in a mailroom, hand-sorting envelopes next to a bin marked “abstentee.”" picname='2901413967_91eb43109e_o.jpg'></picture>
+        <imagecitation>US Army/flickr, CC BY 2.0</imagecitation>
+    </rightcontent>
+  </content>
+
+  <content>
+    <leftcontent> 
+      <contenttitle>Reminders Help</contenttitle>
+      <contentdata>
+        <para>The researchers found that encouraging voters to request mail-in ballots and advising them on the application process significantly increased the number of votes submitted by mail and may have increased overall turnout, although evidence of the latter was inconclusive. While this may seem like a good way to foster political participation, later that year, during the general election in November 2020, thousands of mail-in ballots were not counted in Pennsylvania because voters used the wrong envelopes—a policy that had not been enforced in the June primary.</para>
+       
+      </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="A person wearing a mask over their nose and mouth sits before a lit up screen in a large room, surrounded by boxes of paper ballots, in front of a metal barrier that separates them from an election monitor who also wears a mask." picname='51015396173_4f3ec1a9c7_o.jpg'></picture>
+        <imagecitation>"Making Every Vote Count – John Altdorfer – Allegheny County" by Governor Tom Wolf/flickr, CC BY 2.0</imagecitation>
+    </rightcontent>
+  </content>
+
+  
+
+    
+
+  <content>
+    <leftcontent> 
+      <contenttitle>What Do You Think?</contenttitle>
+      <contentdata>
+     
+       <para>Given what you have learned about mail-in ballots, do you think it is a good idea to expand their use? What are some ways voters can learn how to correctly fill out and return their ballots? What institutions or groups can assist in making voting by mail an easier and more efficient process?</para>
+        
+      </contentdata>
+   
+      </leftcontent>
+    <rightcontent>
+        <picture alt="A child’s legs are visible under a table in front of a wall lined with lockers, but their upper body is obscured by a large cardboard tabletop booth, adorned with red and white balloons and hand-painted with the word VOTE!" picname='30751203172_da3c04d69f_o.jpg'></picture>
+        <imagecitation>"Mock Election Day" by Phil Roeder/flickr, CC BY 2.0</imagecitation>
+    </rightcontent>
+  </content>
+
+ <content>
+    <leftcontent> 
+      <contenttitle>References</contenttitle>
+      <contentdata>
+     
+       
+        <!-- <para><h3></h3></para> -->
+          <para>Fernekes, Collier, and Rachel Orey. "Voting in the Time of Corona: The Difference between Absentee Voting and Voting-by-Mail." Bipartisan Policy Center. April 1, 2020. <a target="_blank" href="https://bipartisanpolicy.org/blog/voting-in-the-time-of-corona-the-difference-between-absentee-voting-and-voting-by-mail/">https://bipartisanpolicy.org/blog/voting-in-the-time-of-corona-the-difference-between-absentee-voting-and-voting-by-mail/</a>.</para>
+          <para>Hopkins, Daniel J., Marc Meredith, Anjali Chainani, Nathaniel Olin, and Tiffany Tse. "Results from a 2020 Field Experiment Encouraging Voting by Mail." <em>Proceedings of the National Academy of Sciences</em> 118, no. 4 (January 26, 2021). <a target="_blank" href="https://doi.org/10.1073/pnas.2021022118">https://doi.org/10.1073/pnas.2021022118</a>.</para>
+          <para>MIT Election Data + Science Lab. "Voting by Mail and Absentee Voting." Massachusetts Institute of Technology, last updated March 16, 2021. <a target="_blank" href="https://electionlab.mit.edu/research/voting-mail-and-absentee-voting">https://electionlab.mit.edu/research/voting-mail-and-absentee-voting</a>.</para>
+          <para>National Conference of State Legislatures. "Voting Outside the Polling Place: Absentee, All-Mail and Other Voting at Home Options." Elections and Campaigns. September 24, 2020. <a target="_blank" href="https://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx">https://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx</a>.</para>
+           <para>Winberg, Michaela. "Good Job, Philly: Only 1% of City Mail Ballots Were 'Naked.’" Billy Penn. WHYY, November 11, 2020. <a target="_blank" href="https://billypenn.com/2020/11/11/philly-naked-ballots-pennsylvania-mail-votes-november-election/">https://billypenn.com/2020/11/11/philly-naked-ballots-pennsylvania-mail-votes-november-election/</a>.</para>
+           <para></para>
+           <para></para>
+           <para></para>
+      </contentdata>
+   
+      </leftcontent>
+    <!-- <rightcontent>
+        <picture alt="A child’s legs are visible under a table in front of a wall lined with lockers, but their upper body is obscured by a large cardboard tabletop booth, adorned with red and white balloons and hand-painted with the word VOTE!" picname='30751203172_da3c04d69f_o.jpg'></picture>
+        <imagecitation>"Mock Election Day" by Phil Roeder/flickr, CC BY 2.0</imagecitation>
+    </rightcontent> -->
+  </content>
+
+  
+
+</dataset>
