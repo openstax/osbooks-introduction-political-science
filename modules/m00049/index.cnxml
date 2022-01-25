@@ -6,8 +6,62 @@
     <md:uuid>2b760601-9848-457b-8543-c572f061b6e9</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001">Placeholder Text</para>
-</section>
-</content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Define unicameral and bicameral legislature.</item>
+    <item>Outline which types of legislative systems exist in different parts of the world.</item>
+    <item>Analyze the relative advantages and disadvantages of each type of legislative system.</item>
+    </list>
+    </section>
+    <para id="para-00002">One key structural component of legislatures is the number of chambers that they have. The two most common options for chamber structure are unicameral and bicameral. A <term id="term-00001">unicameral</term> legislature has only one chamber, or body, that makes decisions. A <term id="term-00002">bicameral</term> legislature has two chambers, often with different procedures and powers, that ultimately must work together to make policy and exercise other legislative powers and responsibilities.</para>
+    <note class="media-video" id="note-00001">
+    <title>The House of Representatives vs. The Senate in Australia</title>
+    <media alt="atoms_isotopes">
+    <iframe width="660" height="371.4" src="https://openstax.org/r/The_House_of_Representatives_vs_The_Senate"/>
+    </media>
+    <para id="para-00003">The Parliament of Australia is a bicameral legislature made up of both a House of Representatives and a Senate, but some features of the institution make the two chambers quite different from each other. As you watch this video, try to list the similarities and differences between the two chambers, and see if you can recognize any key terms from this chapter.</para>
+    </note>
+    <section id="sect-00002">
+    <title>Strengths and Weaknesses of a Unicameral Legislature</title>
+    <para id="para-00004">One of the main strengths of <term id="term-00003">unicameral</term> legislatures is that they create a more efficient legislative process. In a unicameral legislature, bills only need to go before and be debated by one set of decision makers, whereas in a <term id="term-00004">bicameral</term> legislature, both chambers must debate and approve bills in order for them to have a chance of becoming laws. This legislative efficiency is particularly valued in more homogenous societies, where having venues for different voices and perspectives is not seen as particularly important. In these societies, political parties are considered sufficient to protect diverse interests.</para>
+    <para id="para-00005"><term id="term-00005">Unicameral</term> systems do not lend themselves to oversight and checks on the power of the legislature. In bicameral systems, the need to pass legislation through another chamber is a natural “veto point”; if there is support for legislation in one chamber but not the other, that may reflect broad concerns of a segment of the public, so the public’s preferences are better served when both chambers weigh in and consider a piece of legislation. The lack of a natural “veto point” is particularly apparent in unicameral <term id="term-00006">parliamentary</term> systems, where a prime minister with a strong governing majority faces almost no constraints from either a separate chamber or an effective minority opposition.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Strengths and Weaknesses of a Bicameral Legislature</title>
+    <para id="para-00006"><term id="term-00007">Bicameral</term> systems make up approximately one-half of legislatures around the world. Bicameralism is largely thought to allow the structures of a political system to reflect different voices and priorities. In bicameral systems, there is often a lower chamber, more closely associated with the perspective of the people, and an upper chamber, which might reflect different territories or classes.<footnote id="foot-00001">Paolo Passaglia, “Unicameralism, Bicameralism, Multicameralism: Evolution and Trends in Europe,” <emphasis effect="italics">Perspectives on Federalism</emphasis> 10, no. 2 (2018): 1–29, http://www.on-federalism.eu/index.php/articles/291-unicameralism-bicameralism-multicameralism-evolution-and-trends-in-europe.</footnote> For example, in the German parliamentary system, the lower chamber, the <term class="no-emphasis" id="term-00008">Bundestag</term>, is directly elected by the public, while the upper chamber, the <term class="no-emphasis" id="term-00009">Bundesrat</term>, is supposed to represent the 16 Länder, or states. While each state has between three and six votes on legislation, all of a state’s votes in the Bundesrat must be cast as a bloc, either for or against a piece of legislation.<footnote id="foot-00002">“Voting,” Plenary Sessions, Bundesrat, accessed October 15, 2021, https://www.bundesrat.de/EN/funktionen-en/plenarsitzung-en/abstimmung-en/abstimmung-en-node.html</footnote> The idea is that the vote should represent the state’s interests, not the interests of the individuals representing the state. The two chambers create a system of checks and balances within the legislative branch so that any legislation that can survive the legislative branch process is much more likely to succeed.</para>
+    <figure id="fig-00001"><media alt="Young adult student journalists wearing lanyards sit facing forward in tiered rows of two-person desks.">
+    <image mime-type="image/jpeg" src="../../media/POL_Figure_09_03_019.jpg"/></media>
+    <caption>Student journalists participate in a 2017 celebration of youth journalism taking place on the floor of the German Bundesrat. Note how the names of the Länder are affixed to the desks, highlighting the importance of representing a particular region. (credit: “Preisverleihung - SZWdL17” by Jugendpresse Deutschland/Timon Suhk/flickr, CC BY 2.0)</caption></figure>
+    <para id="para-00007">There are important weaknesses to bicameral systems. First, the legislative process is inefficient. After a bill has been investigated, debated, and voted on in one chamber, it must go to a second chamber and complete the whole process again. This can both significantly extend the time it takes for a piece of legislation to pass and dramatically raise the odds that a piece of legislation will die before it gets to a vote, as at every stage along the way there are two sets of decision makers who can choose not to proceed with a piece of legislation. This phenomenon played a significant role in preventing comprehensive immigration reform in the United States in the first two decades of the 21st century. One nuance of the American legislative process is that bills that haven’t passed both chambers of Congress expire at the end of each two-year session. Although a number of different pieces of immigration legislation were introduced between 2000 and 2020, and some passed either the House or the Senate, no comprehensive immigration legislation was signed into law.<footnote id="foot-00003">Daniel González and Dan Nowicki, “Timeline: Immigration Reform,” <emphasis effect="italics">Arizona Republic</emphasis>, updated November 24, 2014, https://www.azcentral.com/story/news/politics/immigration/2014/06/22/immigration-reform-timeline-notch/11232797/.</footnote> Additionally, both chambers must pass the exact same text of legislation. As many systems allow both chambers to amend legislation, a piece of legislation can bounce back and forth between the two chambers until they can agree on a final version. That can also add significant time and inefficiencies to the legislative process.</para>
+    <para id="para-00008">Another weakness of bicameralism is that it can suffer from gridlock when different parties hold the majority in each chamber, particularly when the two parties in charge have significant policy and ideological disagreements.</para>
+    <para id="para-00009">The strengths and weaknesses of bicameralism are two sides of the same coin. A system that, by design, allows for more voices can become a system where nothing can happen, as disagreement in the legislature can cause everything to come to a screeching halt.</para>
+    <note class="show-data" id="note-00002">
+    <title>Frequency of Unicameral and Bicameral Legislatures around the World</title>
+    <figure id="fig-00002"><media alt="A world map codes countries according to whether they have bicameral or unicameral legislatures, some variant, or no legislature at all.">
+    <image mime-type="image/png" src="../../media/POL_Figure_09_03_020.png"/></media>
+    <caption>Approximately half of the countries around the world have bicameral legislatures (in green), while the other half have <term id="term-00010">unicameral</term> legislatures (in blue). A few countries, for example China and Iran, have unicameral legislatures with separate advisory bodies (brown), and a couple others have no legislature at all (red). (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <para id="para-00010">A quick look around the world shows some interesting patterns. Many large countries have a bicameral legislative system. In part, this reflects the influence that the United States and European countries have around the globe. But a significant number of countries, including countries in western and southern Africa, Central America, the Middle East, and northern Europe, as well as many island nations, have unicameral legislatures. What characteristics do you think influence countries to adopt one structure of legislature versus the other?</para>
+    </note>
+    </section>
+    <section class="summary" id="sect-00004">
+    <title/>
+    <para id="para-00011">There are also two primary types of organizing systems in legislatures. First, there are legislatures with only one chamber, which are called unicameral. Second, there are legislatures with two chambers, called bicameral legislatures. Unicameral legislatures are thought to be more efficient than bicameral legislatures, but bicameral legislatures are designed to take into account a variety of different viewpoints.</para>
+    </section>
+    <section class="review-questions" id="sect-00005">
+    <title>Review Questions</title>
+    <section id="sect-00006">
+    <title/>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00012"><link class="os-embed" url="#exercise/PS_Ch9_Sec3_MCQ13"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00013"><link class="os-embed" url="#exercise/PS_Ch9_Sec3_MCQ14"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00014"><link class="os-embed" url="#exercise/PS_Ch9_Sec3_MCQ15"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00015"><link class="os-embed" url="#exercise/PS_Ch9_Sec3_MCQ16"/></para></problem></exercise>
+    </section>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>bicameral</term> <meaning>describes a legislature with two chambers, usually an upper chamber and a lower chamber</meaning></definition>
+    <definition id="def-00002"><term>unicameral</term> <meaning>describes a legislature with a single chamber</meaning></definition>
+    </glossary>    
 </document>
