@@ -6,8 +6,10 @@
     <md:uuid>f7b7710a-4e8e-400d-a0cb-fc1e6b21ca40</md:uuid>
   </metadata>
   <content class="introduction">
-<section id="sect-00001">
-<para id="para-00001">Placeholder Text</para>
-</section>
-</content>
+    <figure class="splash" id="fig-00001"><media alt="In a legislative chamber an assembly of professionally dressed people stand behind wooden desks, arranged in a tiered semicircle, facing a long rostrum, while additional people stand and look on from the gallery above.">
+    <image mime-type="image/jpeg" src="../../media/POL_Figure_09_Intro_001_Splash.jpg"/></media>
+    <caption>The Congress of Peru is a unicameral legislature in which legislators are selected to represent each regional district as well as two special districts, for Lima Province and Peruvian citizens abroad. Seats are assigned based on population in multimember districts. (credit: “Presidente del Congreso en Sesión Solemne” by Congreso de la República del Perú/Wikimedia Commons, CC BY 2.0)</caption></figure>
+    <para id="para-00001">A <term id="term-00001">legislature</term> is a deliberative body that is granted the authority to create laws to govern a society. When the term legislature comes up, we often think of national legislatures, such as the US Congress or the National Congress of Argentina. However, city councils and state legislatures also play a significant role in governing our everyday lives, and supranational legislatures, such as the <term class="no-emphasis" id="term-00002">European Parliament</term>, can have a profound impact by setting policies on trade and migration across many countries. Though legislatures are deliberative bodies generally focused on passing laws, their role is much more complex.</para>
+    <para id="para-00002">In this chapter, we will explore what it is that legislatures do, examine the impact that differences in legislative structure can have on the political system, and consider the challenges that legislatures face.</para>
+    </content>    
 </document>
