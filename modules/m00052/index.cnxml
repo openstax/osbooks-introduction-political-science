@@ -6,8 +6,151 @@
     <md:uuid>a0a966af-a16e-43fa-8240-5bb3171c2905</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001">Placeholder Text</para>
-</section>
-</content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Identify the three types of democratic regimes.</item>
+    <item>Distinguish between the roles of “head of state” and “head of government” and describe how each is typically selected by regime.</item>
+    <item>Describe and evaluate the importance of the head of state for government legitimacy and national unity.</item>
+    </list>
+    </section>
+    <para id="para-00002">Democratic regimes are typically classified into three categories: presidential, parliamentary, and semi-presidential.<footnote id="foot-00001">Nils-Christian Bormann and Matt Golder, “Democratic Electoral Systems around the World, 1946–2011,” <emphasis effect="italics">Electoral Studies</emphasis> 32, no. 2 (June 2013), 360–369.</footnote> The keys to understanding the differences among the three are (1) how the head of government is selected and (2) if there is a separate head of state who is popularly elected to a fixed term of office. In <term id="term-00001">presidential regimes</term>, heads of government are popularly elected to fixed terms and do not depend on legislatures for their power. Presidents also serve as heads of state. In <term id="term-00002">parliamentary regimes</term>, the head of government, the <term id="term-00003">prime minister</term>, is selected by the legislature. <term id="term-00004">Semi-presidential regimes</term> include a popularly elected head of state and a legislature selected head of government. In semi presidential regimes, both presidents and prime ministers wield political power. See Table 10.1.</para>
+    <table summary="" id="table-00001">
+    <title>The Structure of Democratic Regimes</title>
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <thead>
+    <row>
+    <entry align="center" namest="c1" nameend="c4">The Structure of Democratic Regimes</entry>
+    </row>
+    <row>
+    <entry align="center" namest="c1" nameend="c4"> </entry>
+    </row>
+    <row>
+    <entry align="center" namest="c1" nameend="c4">Head of Government</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry align="left"> </entry>
+    <entry align="left">Presidential</entry>
+    <entry align="left">Parliamentary</entry>
+    <entry align="left">Semi-Presidential</entry>
+    </row>
+    <row>
+    <entry align="left">Selection Method</entry>
+    <entry align="left">Popular election</entry>
+    <entry align="left">Selected by the legislature</entry>
+    <entry align="left">Selected by the legislature</entry>
+    </row>
+    <row>
+    <entry align="left">Fixed Term?</entry>
+    <entry align="left">Yes</entry>
+    <entry align="left">No</entry>
+    <entry align="left">No</entry>
+    </row>
+    <row>
+    <entry align="left">Responsible to Legislature?</entry>
+    <entry align="left">No</entry>
+    <entry align="left">Yes</entry>
+    <entry align="left">Yes</entry>
+    </row>
+    <row class="header-row">
+    <entry align="center" namest="c1" nameend="c4"><emphasis effect="bold"> </emphasis></entry>
+    </row>
+    <row class="header-row">
+    <entry align="center" namest="c1" nameend="c4"><emphasis effect="bold">Head of State</emphasis></entry>
+    </row>
+    <row>
+    <entry align="left"> </entry>
+    <entry align="left">Presidential</entry>
+    <entry align="left">Parliamentary</entry>
+    <entry align="left">Semi-Presidential</entry>
+    </row>
+    <row>
+    <entry align="left">Selection Method</entry>
+    <entry align="left">Typically, the head of government is also the head of state.</entry>
+    <entry align="left">There is considerable variation, including elected (e.g., Germany) and unelected (e.g., Great Britain) methods.</entry>
+    <entry align="left">Generally, the head of state is selected by popular election.</entry>
+    </row>
+    <row>
+    <entry align="left">Fixed Term?</entry>
+    <entry align="left">Yes</entry>
+    <entry align="left">Depends if position is elected or unelected. Elected are fixed term; unelected are not fixed term and include hereditary monarchies (e.g., Belgium).</entry>
+    <entry align="left">Yes</entry>
+    </row>
+    <row>
+    <entry align="left">Responsible to Legislature?</entry>
+    <entry align="left">No</entry>
+    <entry align="left">Yes</entry>
+    <entry align="left">In select situations, potentially. Enjoys dual authority with prime minister, but there is considerable variation across countries regarding the scope of authority the head of state has.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00003">Using <term class="no-emphasis" id="term-00005">Bormann</term> and <term class="no-emphasis" id="term-00006">Golder</term>’s classification and supplementing the data with Robert <term class="no-emphasis" id="term-00007">Elgie</term>’s list of semi-presidential countries, approximately 36 percent of democracies are parliamentary, 25 percent are presidential, and 39 percent are semi-presidential. (See <link target-id="fig-00001" document="m00052"/>.) Following a traditional approach within comparative politics, our primary focus is on parliamentary and presidential regimes and not semi-presidential ones. Even though semi presidential regimes comprise a large category, they are not easily defined and have considerable variation.<footnote id="foot-00002">José Antonio Cheibub, Zachary Elkins, and Tom Ginsburg, “Beyond Presidentialism and Parliamentarianism,” <emphasis effect="italics">British Journal of Political Science</emphasis> 44, no. 3 (July 2014): 515–544.</footnote></para>
+    <note class="show-data" id="note-00001">
+    <figure id="fig-00001">
+    <media alt="A bar graph shows that, among democratic regimes, more than a third are semi-presidential, nearly as many are parliamentary, and a quarter are presidential.">
+    <image mime-type="image/png" src="../../media/POL_Figure_10_01_002.png"/></media>
+    <caption>Regime types as a percent of all democratic countries in the world as of 2018. (data source: Nils-Christian Bormann and Matt Golder. “Democratic Electoral Systems around the World, 1946–2011.” <emphasis effect="italics">Electoral Studies</emphasis> 32 (2013): 360–369; Robert Elgie. “Up-to-Date List of Semi-Presidential Countries with Dates.” <emphasis effect="italics">The Semi-Presidential One</emphasis> (blog). Last updated June 28, 2018. http://www.semipresidentialism.com/up-to-date-list-of-semi-presidential-countries-with-dates/; attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    </note>
+    <section id="sect-00002">
+    <title>The Roles of Chief Executives within Democratic Regimes: Head of State</title>
+    <para id="para-00004">Chief executives play two general roles: <term id="term-00008">head of state</term> and <term id="term-00009">head of government</term>. Head of state is a ceremonial role, while head of government is a political one that confers real power. Within a presidential regime, the president is both head of state and head of government. In a parliamentary regime, however, the roles are separate, with a president (as in Germany or India) or emperor (as in Japan) serving as head of state and the prime minister (or, in Germany, the chancellor) serving as head of government.</para>
+    <para id="para-00005">While the position of head of state is largely ceremonial, images and symbols are extremely important, and the head of state provides a national symbol for a country’s citizens that works to unify a country. It would be a mistake to view the head of state as a mere figurehead. Heads of state attend national celebrations, host events such as state dinners, and often play a role in sporting events. For example, <term class="no-emphasis" id="term-00010">Queen Elizabeth II</term> opened the 2012 Olympic Games in London. Similarly, Japan’s Emperor <term class="no-emphasis" id="term-00011">Naruhito</term> opened the Summer 2020 Olympic Games held in Tokyo from July to August 2021. Their visibility is important to national identity.</para>
+    <note class="media-video" id="note-00002">
+    <title>Heads of State Open the Olympic Games</title>
+    <media alt="atoms_isotopes">
+    <iframe width="660" height="371.4" src="https://openstax.org/r/Open_the_Olympic_Games"/>
+    </media>
+    <para id="para-00006">Illustrating the unifying role a head of state provides, one of the more memorable moments of President George W. <term class="no-emphasis" id="term-00012">Bush</term>’s first administration was when he threw the ceremonial first pitch in game 3 of the 2001 World Series. Taken just a few short months after <term class="no-emphasis" id="term-00013">9/11</term>, the pictures of him at the mound, throwing a strike, are iconic. Presidents are the most recognizable leaders of their countries, and one of the key roles they play is to symbolically represent the state. Additionally, sports are intricately woven into each country’s cultural fabric. Baseball is known as “America’s pastime.” When President Bush threw the ceremonial first pitch, he stood as a unifying symbol relatable to people across party lines. As noted author David <term class="no-emphasis" id="term-00014">Fisher</term> observed: “I didn’t vote for him. But at that point, my personal feelings about him as a politician [were] gone. I watched him, and he was my representative. And I had never felt that way before.”<footnote id="foot-00003">This YouTube clip by Townhall provides a great overview of the event and the event’s importance: https://www.youtube.com/watch?v=bxR1tZ08FcI. Fisher’s quote comes at the 3:38 mark. See https://us.macmillan.com/author/davidfisher/.</footnote> Nineteen years later, writing for <emphasis effect="italics">Newsweek</emphasis>, Marina <term class="no-emphasis" id="term-00015">Watts</term> commented on the power of imagery: “That night, the first pitch meant more than just ‘play ball.’ It meant moving forward. It meant unity. With that throw, Bush helped heal a city and a nation.”<footnote id="foot-00004">Marina Watts, “Why George Bush’s 2001 World Series First Pitch Meant More Than Just ‘Play Ball,’” <emphasis effect="italics">Newsweek</emphasis>, September 11, 2020, https://www.newsweek.com/why-george-bushs-2001-world-series-first-pitch-meant-more-just-play-ball-1531324.</footnote></para>
+    <note class="media-video" id="note-00003">
+    <title>President George W. Bush’s Opening Pitch at Yankee Stadium after 9-11</title>
+    <media alt="atoms_isotopes">
+    <iframe width="660" height="371.4" src="https://openstax.org/r/Bushs_Opening_Pitch_at_Yankee_Stadium"/>
+    </media>
+    </note>
+    <para id="para-00007">Heads of state also provide <term class="no-emphasis" id="term-00016">legitimacy</term> to a government. While all states have coercive power, democratic governments depend upon citizen recognition that the <term class="no-emphasis" id="term-00017">authority</term> the state has and the power it exerts are legitimate. When the head of state is separate from the head of government, the head of state can play a significant role in establishing and reinforcing the legitimacy of that government.</para>
+    <figure id="fig-00002">
+    <media alt="Queen Elizabeth II and Prince Phillip sit on thrones, wearing formal regalia, at the front of a room filled with well-dressed people seated in rows.">
+    <image mime-type="image/jpeg" src="../../media/POL_Figure_10_01_005.jpg"/></media>
+    <caption>Queen Elizabeth II opens Canada’s 23rd Parliament in the Senate Chamber, Ottawa, Ontario. (credit: “Her Majesty Queen Elizabeth II opens Canada’s 23rd Parliament in the Senate Chamber, Ottawa, Ontario” by Library and Archives Canada, Public Domain)</caption></figure>
+    <para id="para-00008">In Great Britain, the Queen invites the winning party’s leader to form a government, and the Queen then gives a speech prepared by that new government laying out the government’s policy agenda and legislative initiatives. The new government has immediate legitimacy based on both winning elections and the visible support of the Crown. Often, the Queen’s representative performs her duties as head of state in the 16 Commonwealth realms, like Australia and New Zealand, but early in her reign she traveled more extensively and performed more of those duties in person.</para>
+    </note>
+    </section>
+    <section id="sect-00003">
+    <title>The Roles of Chief Executives within Democratic Regimes: Head of Government</title>
+    <para id="para-00009">As <term class="no-emphasis" id="term-00018">head of government</term>, the chief executive has both the power and the authority to take action. Both presidents and prime ministers serve as heads of their governments as they take the lead in setting policy agendas, crafting legislation, and responding to crises. As previously noted, they are the ones people look to for solutions to a nation’s problems and the ones citizens hold accountable. Indeed, an April 2020 Al Jazeera headline puts it bluntly: “<term class="no-emphasis" id="term-00019">COVID-19</term> pandemic is testing world leaders. Who’s stepping up?”<footnote id="foot-00005">Zaheena Rasheed, “COVID-19 Pandemic Is Testing World Leaders. Who’s Stepping Up?” <emphasis effect="italics">Al Jazeera</emphasis>, April 3, 2020, https://www.aljazeera.com/news/2020/4/3/covid-19-pandemic-is-testing-world-leaders-whos-stepping-up.</footnote> The article evaluates the actions of various leaders, including presidents and prime ministers, noting how each leader used his or her power to address the pandemic.</para>
+    <para id="para-00010">To illustrate how people evaluate a leader based on that leader’s response to a crisis, consider the cases of Chancellor Angela <term class="no-emphasis" id="term-00020">Merkel</term> of Germany and President Donald <term class="no-emphasis" id="term-00021">Trump</term> of the United States. In their summer 2020 Global Attitudes survey, Pew Research found that 88 percent of Germans reported that their country had “done a good job dealing with the coronavirus outbreak.” For the United States, only 47 percent of Americans responded the same.<footnote id="foot-00006">Jacob Poushter and J. J. Moncus, “How People in 14 Countries View the State of the World in 2020,” Pew Research Center, September 23, 2020, https://www.pewresearch.org/fact-tank/2020/09/23/how-people-in-14-countries-view-the-state-of-the-world-in-2020/.</footnote> Concurrent with that report, Pew also reported that 76 percent of Germans reported confidence in Merkel “to do the right thing regarding world affairs,” the highest such rating among world leaders. Within her own country, Merkel’s approval rating was 72 percent.<footnote id="foot-00007">Constanze Stelzenmüller, “Angela Merkel’s Final Year,” <emphasis effect="italics">Order from Chaos</emphasis> (blog), Brookings, September 30, 2020, https://www.brookings.edu/blog/order-from-chaos/2020/09/30/angela-merkels-final-year/. This link to the polling report appears in the article: https://www.tagesschau.de/inland/deutschlandtrend-2321.pdf.</footnote> Nevertheless, as the pandemic raged on, her support fell, and her party “fared poorly” in elections.<footnote id="foot-00008">Holly Ellyatt, “Confidence in Merkel’s Leadership Falters as Germany’s Pandemic Drags,” <emphasis effect="italics">CNBC</emphasis>, March 26, 2021, https://www.cnbc.com/2021/03/26/germanys-merkel-and-cdu/csu-popularity-falls-during-the-pandemic-.html.</footnote></para>
+    <para id="para-00011">In the United States, Donald Trump’s approval ratings make clear voters’ perceptions of how his administration responded to the pandemic. In September 2020, Trump’s 44 percent approval rating was nearly identical to the percent of respondents who believed the country was doing a good job dealing with COVID-19.<footnote id="foot-00009">“President Trump: Job Ratings,” PollingReport.com, https://www.pollingreport.com/djt_job2.htm#Gallup. The September number is an average of two Gallup polls (8/31 to 9/13 and 9/14 to 9/28).</footnote> In November 2020, Trump was defeated in his bid for reelection. In exit polls, 17 percent of respondents indicated that the coronavirus was the most important issue affecting their vote. Among all respondents, the economy was the most important issue (35 percent) and racial inequality was second (20 percent). Coronavirus was third. Of those respondents who indicated coronavirus as the most important issue, 81 percent voted for Joe <term class="no-emphasis" id="term-00022">Biden</term>.<footnote id="foot-00010">“Exit Polls,” <emphasis effect="italics">CNN</emphasis>, https://www.cnn.com/election/2020/exit-polls/president/national-results.</footnote> While Trump’s handling of the issue was only one factor in his defeat, it was a significant factor. Prior to the election, 55 percent of respondents indicated that the pandemic was a very important issue to how they would vote.<footnote id="foot-00011">Amina Dunn, “Only 24% of Trump Supporters View the Coronavirus Outbreak as a ‘Very Important’ Voting Issue,” Pew Research Center, October 21, 2020, https://www.pewresearch.org/fact-tank/2020/10/21/only-24-of-trump-supporters-view-the-coronavirus-outbreak-as-a-very-important-voting-issue/. Please note there is no inherent contradiction between 17 percent on Election Day stating the coronavirus was the most important issue and 55 percent of respondents stating before the election that it was a very important issue. For the CNN exit poll, respondents can only choose one issue as most important. For the Pew Research poll, respondents considered each issue independently and were asked to rate that issue’s importance.</footnote></para>
+    </section>
+    <section class="summary" id="sect-00004">
+    <title/>
+    <para id="para-00012">Democratic systems are classified into three categories: presidential regimes, parliamentary regimes, and semi presidential regimes. Within each regime, there is a head of government as well as a head of state. In presidential regimes, the head of government is directly elected by the citizens and also serves as the head of state. In parliamentary and semi presidential regimes, the head of government and head of state are separate individuals, and the legislature selects the head of government. Generally, the head of state is a ceremonial role, while the head of government holds political power and takes the lead in setting the policy agenda.</para>
+    </section>
+    <section class="review-questions" id="sect-00005">
+    <title>Review Questions</title>
+    <section id="sect-00006">
+    <title/>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00013"><link class="os-embed" url="#exercise/PS_Ch10_Sec1_MCQ1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00014"><link class="os-embed" url="#exercise/PS_Ch10_Sec1_MCQ2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00015"><link class="os-embed" url="#exercise/PS_Ch10_Sec1_MCQ3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00016"><link class="os-embed" url="#exercise/PS_Ch10_Sec1_MCQ4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00017"><link class="os-embed" url="#exercise/PS_Ch10_Sec1_MCQ5"/></para></problem></exercise>
+    </section>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>head of government</term> <meaning>performed by a country’s leader, a political role in which the individual leads the country’s government</meaning></definition>
+    <definition id="def-00002"><term>head of state</term> <meaning>performed by country’s leader, a ceremonial role in which the individual symbolically represents the country</meaning></definition>
+    <definition id="def-00003"><term>parliamentary regimes</term> <meaning>democratic government systems in which the chief executive is selected by the legislative body and is a member of that legislature</meaning></definition>
+    <definition id="def-00004"><term>presidential regimes</term> <meaning>democratic governments in which the chief executive is selected separately from the legislative body and there exists a separation of powers between the presidency and the legislature</meaning></definition>
+    <definition id="def-00005"><term>prime minister</term> <meaning>the chief executive and head of government in a parliamentary regime</meaning></definition>
+    <definition id="def-00006"><term>semi-presidential regimes</term> <meaning>democratic government systems in which executive power is split between a prime minister (selected by the legislature) and a president (directly elected by the citizenry)</meaning></definition>
+    </glossary>    
 </document>

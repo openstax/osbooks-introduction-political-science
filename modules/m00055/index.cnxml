@@ -6,8 +6,129 @@
     <md:uuid>1a12571a-8b97-4116-9052-67da75bb895b</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001">Placeholder Text</para>
-</section>
-</content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <list id="list-00001">
+    <item>Compare and contrast the advantages and disadvantages of parliamentary and presidential regimes.</item>
+    <item>Distinguish between government stability and policy stability.</item>
+    <item>Explain what a coalition government is and how these governments potentially work within each regime.</item>
+    <item>Define political gridlock and political polarization and explain how they may impact public policy.</item>
+    <item>Summarize how minor parties are more viable in a parliamentary regime than they are in a presidential regime.</item>
+    </list>
+    </section>
+    <para id="para-00002">Each system has its advantages and disadvantages. In this section we will primarily focus on the systems’ effects on policy: stability, coalition governments, divided government, and representation of minor parties.</para>
+    <table summary="" id="table-00001">
+    <title>Comparison of Advantages and Disadvantages of Presidential and Parliamentary Regimes</title>
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <thead>
+    <row>
+    <entry align="center" namest="c1" nameend="c2">Presidentialism</entry>
+    <entry align="center" namest="c3" nameend="c4">Parliamentarianism</entry>
+    </row>
+    <row>
+    <entry align="center">Advantages</entry>
+    <entry align="center">Disadvantages</entry>
+    <entry align="center">Advantages</entry>
+    <entry align="center">Disadvantages</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry align="left">Presidents can claim a mandate and take the lead in setting the legislative agenda.</entry>
+    <entry align="left">If there is divided government, it can lead to gridlock.</entry>
+    <entry align="left">A unified government enables the quick enactment of policies.</entry>
+    <entry align="left">Drastic policy change is possible from one government to the next.</entry>
+    </row>
+    <row>
+    <entry align="left">During a time of crisis, a president may be able to act quickly.</entry>
+    <entry align="left">A president may blame the legislature for policy failures.</entry>
+    <entry align="left">A clear line of policy-making responsibility helps define accountability.</entry>
+    <entry align="left">Coalition governments may be short-lived, with frequent elections.</entry>
+    </row>
+    <row>
+    <entry align="left">Separation of powers may better protect rights of minority groups when an independent judiciary has the power of judicial review.</entry>
+    <entry align="left">One individual must play the roles of both head of state and head of government.</entry>
+    <entry align="left">Minority parties are frequently represented in parliamentary legislatures.</entry>
+    <entry align="left">Minority groups have relatively fewer protections.</entry>
+    </row>
+    <row>
+    <entry align="left"> </entry>
+    <entry align="left">Party discipline tends to be weak. Strong presidents or populist leaders can emerge, presenting challenges to democracy.</entry>
+    <entry align="left">Political parties and party discipline tend to be strong.</entry>
+    <entry align="left"> </entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <section id="sect-00002">
+    <title>Governmental Stability versus Policy Stability</title>
+    <para id="para-00003">Any discussion of the advantages and disadvantages of presidentialism and parliamentarianism begins with the hypothesis, first posited by Spanish sociologist and political scientist Juan <term class="no-emphasis" id="term-00001">Linz</term>, that parliamentary regimes are more stable than presidential regimes and that “the only presidential democracy with a long history of constitutional continuity is the United States.”<footnote id="foot-00001">Juan Linz, “The Perils of Presidentialism,” <emphasis effect="italics">Journal of Democracy</emphasis> 1, no. 1 (Winter 1990): 51.</footnote> To Americans, the claim that parliamentary regimes are more stable may appear strange. As already noted, while parliamentary regimes have regular elections, they are not necessarily fixed-term elections. This means an election can happen at any time, opening up the possibility for multiple elections within a relatively short period of time. From 2018 to 2021, there were four separate elections in Israel.<footnote id="foot-00002">Patrick Kingsley, “Israel’s Election Ends in a Stalemate, Final Results Show.” <emphasis effect="italics">The New York Times</emphasis>, updated May 3, 2021, https://www.nytimes.com/2021/03/25/world/middleeast/israel-election-results.html.</footnote> In April 2020, Benjamin Netanyahu again was given the opportunity to form a new coalition government.<footnote id="foot-00003">Isabel Kershner, “Netanyahu Gets First Crack at Forming a New Government in Israel,” <emphasis effect="italics">The New York Times</emphasis>, updated May 3, 2021, https://www.nytimes.com/2021/04/06/world/middleeast/netanyahu-israel-new-government.html.</footnote> Ultimately, however, he was unable to do so and was ousted as prime minister.<footnote id="foot-00004">Patrick Kingsley and Richard Pérez-Peña, “Netanyahu Ousted as Israeli Parliament Votes in New Government,” <emphasis effect="italics">The New York Times</emphasis>, June 13, 2021, https://www.nytimes.com/2021/06/13/world/middleeast/netanyahu-naftali-bennett-israel-vote.html.</footnote></para>
+    <para id="para-00004">To Americans, this may seem like the very definition of instability. Within this context, stability refers to the stability of the political system itself and not the stability of any particular government within that system. Parliamentary regimes may experience multiple elections in a short space of time, but that does not mean the system itself is unstable. It could simply reflect current electoral politics. In that respect, the current demographics of a particular country could work against a majority emerging and encourage coalition governments. Deep divisions within the Israeli electorate have made the formation and maintenance of a coalition government difficult. Nevertheless, the political system remains stable and in place, even if the ramifications of Israel’s crisis in determining its leadership do raise some concerns for aspects of the system. Any instability provides the opportunity for political change.</para>
+    <para id="para-00005">Instability can also take the form of policy change. Policy swings are more likely in parliamentary regimes. Because there are no set elections, elections could take place at any time. While public opinion does tend to move rather slowly, it changes over time and when triggered by events that cause the public to rethink key issues. Within a parliamentary regime, changing demographics or changing attitudes among the public could bring in a new government that has a very different majority than the old government. That new government could bring sweeping policy changes. Whether an individual sees the changes as a sign of political instability or a sign that the government reflects the will of the people may depend upon whether that individual agrees with the new policies. What one person might view as instability, someone else might see as needed policy change.</para>
+    </section>
+    <section id="sect-00003">
+    <title>Coalition Governments</title>
+    <para id="para-00006">Generally, coalition governments are shorter-lived than majority governments.<footnote id="foot-00005">Jaap Woldendorp, Hans Keman, and Ian Budge, <emphasis effect="italics">Party Government in 48 Democracies</emphasis> <emphasis effect="italics">(1945–1998)</emphasis> (Dordrecht, NL: Springer, 2000).</footnote> The sheer duration of a government provides no indication as to its efficiency or its effectiveness in enacting public policy. The stability of a system can also be interpreted as policy change because the electorate may interpret the system as responsive and adaptable. Colomer found that governments with more parties experienced greater stability with respect to policy change.<footnote id="foot-00006">Josep M. Colomer, “The More Parties, the Greater Policy Stability,” <emphasis effect="italics">European Political Science</emphasis> 11, no. 2 (June 2012): 231.</footnote></para>
+    <note class="media-video" id="note-00001">
+    <title>Israeli opposition Parties Strike Deal to Form New Government</title>
+    <media alt="atoms_isotopes">
+    <iframe width="660" height="371.4" src="https://openstax.org/r/opposition_parties_strike_deal"/>
+    </media>
+    </note>
+    <para id="para-00007">Forming a new government within the existing parliamentary structure does not require a fundamental change to that structure or its institutions. Consider what happens when a new US president is elected. That president forms a new administration. Similarly, after congressional elections, there may be new leadership in either or both of the houses if there have been significant partisan shifts, with one party losing majority status and the other party gaining it. The 2020 presidential election illustrates the point well. Joe <term class="no-emphasis" id="term-00002">Biden</term> won the presidency and chose a cabinet. Similarly, Democrats gained a slim majority in the Senate and put in place a new majority leader, Senator Charles (Chuck) <term class="no-emphasis" id="term-00003">Schumer</term>. The government was new, but the structure of the branches of government and its institutions did not change.</para>
+    <para id="para-00008">Coalition governments can be considered a disadvantage of parliamentary regimes, but they can also be a potential advantage. One argument in favor of a parliamentary regime with proportional representation is that more parties are represented. While presidential regimes do not inherently result in a two-party system, there is no doubt that the presidential regime in the United States works that way. Indeed, in the United States, no third-party candidate has ever won the presidency. Theodore <term class="no-emphasis" id="term-00004">Roosevelt</term> came closest in 1912. While he managed to finish second and collect 88 <term class="no-emphasis" id="term-00005">Electoral College</term> votes, he effectively split the Republican vote and helped to ensure the election of Woodrow <term class="no-emphasis" id="term-00006">Wilson</term>, who received less than 45 percent of the popular vote. In a parliamentary regime, it is conceivable that Theodore Roosevelt would have been able to form a coalition with the Republican Party and formed a government. So, not only is one more likely to have viable <term class="no-emphasis" id="term-00007">third parties</term> in a parliamentary regime, but those third parties could hold significant power within a government.</para>
+    </section>
+    <section id="sect-00004">
+    <title>Gridlock</title>
+    <para id="para-00009">One of the primary disadvantages of presidentialism is the possibility of gridlock. Political <term id="term-00008">gridlock</term> is when governments are unable to pass major legislation and stalemates between competing parties take place. Certainly, gridlock can occur within parliamentary regimes, but because presidential regimes have separate institutions, they often result in divided government and are biased against coalition building. Generally speaking, neither of those conditions is typical of a parliamentary regime. These conditions in presidential regimes appear to make them more conducive to gridlock.</para>
+    <para id="para-00010">Over the years, there has been considerable debate over whether divided government causes gridlock. Yale Emeritus Professor David <term class="no-emphasis" id="term-00009">Mayhew</term> argues that gridlock is not inevitable in divided government and that important legislative productivity takes place within both divided and unified governments.<footnote id="foot-00007">David Mayhew, <emphasis effect="italics">Divided We Govern</emphasis>, 2nd ed. (New Haven, CT: Yale University Press, 2005).</footnote> That is not to suggest, however, that gridlock does not take place. Brookings Institution fellow Sarah <term class="no-emphasis" id="term-00010">Binder</term> notes that the 2011–2012 Congress ranked “as the most gridlocked during the postwar era.”<footnote id="foot-00008">Sarah Binder, “Polarized We Govern?” Brookings, May 27, 2014, https://www.brookings.edu/research/polarized-we-govern/.</footnote> When gridlock does happen, it tends to be highly visible, with each side publicly posturing and blaming the other side for the impasse, and gridlock eventually ends. That gridlock ends suggests a self-correcting aspect; the two political parties do not diverge from each other all that much or for all that long.<footnote id="foot-00009">David Mayhew, <emphasis effect="italics">Partisan Balance: Why Political Parties Don’t Kill the US Constitutional System</emphasis> (Princeton, NJ: Princeton University Press, 2011).</footnote> At the same time, presidential regimes carry a risk of <term class="no-emphasis" id="term-00011">polarization</term>. While political polarization is not unique to presidential regimes, they are prone to its development.</para>
+    <note class="show-data" id="note-00002">
+    <figure id="fig-00001">
+    <media alt="A graph shows the noticeable growth in ideological consistency within the parties. In 2014, the median democrat was more consistently liberal than they were in 1994. In 2014, the median Republican was more consistently conservative than they were in 1994.">
+    <image mime-type="image/png" src="../../media/POL_Figure_10_04_011.png"/></media>
+    <caption>Growth of ideological division in the United States from 1994 to 2014. (data source: 2014 Political Polarization in the American Public, Pew Research; attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    </note>
+    <para id="para-00011">The last 30 years in particular have seen an increase in political polarization.<footnote id="foot-00010">“Political Polarization in the American Public,” Pew Research Center, June 12, 2014, https://www.pewresearch.org/politics/2014/06/12/political-polarization-in-the-american-public/.</footnote> The extent to which it exists both within political parties and within the electorate has been the subject of heated debate.<footnote id="foot-00011">See, for example, Morris P. Fiorina, Samuel J. Abrams, and Jeremy C. Pope, <emphasis effect="italics">Culture War? The Myth of a Polarized America</emphasis>, 3rd ed. (New York: Longman, 2010).</footnote> Political polarization is a disadvantage of presidential regimes that presents a cause for concern for the enactment of public policy. But does polarization cause a systemic breakdown in the legislative process? The short answer is that perhaps it can. <term class="no-emphasis" id="term-00012">Dodd</term> and <term class="no-emphasis" id="term-00013">Schraufnagel</term> have demonstrated a curvilinear relationship between polarization and legislative productivity.<footnote id="foot-00012">Lawrence C. Dodd and Scot Schraufnagel, “Reconsidering Party Polarization and Policy Productivity: A Curvilinear Perspective,” in <emphasis effect="italics">Congress Reconsidered</emphasis>, Lawrence C. Dodd and Bruce I. Oppenheimer, eds., 9th ed. (Washington DC: CQ Press, 2009): 413.</footnote> Higher levels of polarization tend to be more likely to interfere with the policy-making process. But interestingly enough, low levels of polarization also result in low levels of productivity. It is when polarization is somewhere in the middle that legislative progress is most likely to occur. Indeed, Dodd and Schraufnagel note that attention should be given to the “virtues of divided government.” So, while presidential regimes work against coalition building, Dodd and Schraufnagel conclude that divided government may provide both parties “some incentive to embrace sincere negotiation, timely compromise, and reasonable, responsive policy productivity by government, since each is responsible for one branch of government and could be held accountable by the public for obstructionist behavior by its branch.”</para>
+    </section>
+    <section id="sect-00005">
+    <title>Viable Third Parties</title>
+    <para id="para-00012">In any democracy, <term class="no-emphasis" id="term-00014">third parties</term> or minority parties play important roles. Presidential regimes tend to encourage the formation of a two-party system, resulting in a weaker role for third parties than in most parliamentary regimes that have proportional representation. The reasons presidential regimes are more prone to result in a two-party system are twofold. The first is due to voting procedures. While there is considerable variation in how elections are held across countries, a common approach is <term id="term-00015">plurality voting</term> (also known as “first past the post”). With plurality voting and <term id="term-00016">single-member districts</term> (one person being elected per geographic area), a two-party system is likely to emerge (this is known as <term class="no-emphasis" id="term-00017">Duverger’s law</term> and was covered in Chapter 9). The presidency is “the most visible single-member district.”<footnote id="foot-00013">Marjorie Randon Hershey, <emphasis effect="italics">Party Politics in America</emphasis> (New York: Routledge, 2021): 39.</footnote> While Duverger’s law is not determinative because it does not guarantee a two-party system, it encourages its development. In addition to voting procedures, presidents have to appeal to voters across groups and form a coalition. Political parties are simply coalitions of varied groups. In order to appeal to as many voters as possible, political parties are more likely to broaden their scope of appeal rather than to define themselves more narrowly.</para>
+    <para id="para-00013">Third parties are much more viable in a parliamentary regime—that is, they have actual representation and voice within the national government. Indeed, the 2018 elections in Italy resulted in over a dozen parties being represented in its parliament. Generally, this is a positive because voters are much more likely to vote for their first choice. Within a two-party system, however, voters may choose to vote for their second choice because they do not wish to waste their vote. In a parliamentary regime with proportional representation, the threshold for representation within the parliament can be quite low at less than 5 percent. Once elected, the minority party could potentially find itself holding some power. In a parliamentary regime, a minority party may find itself with a disproportionate amount of power as it aligns itself with one of the larger parties. While it is possible to exaggerate the power the minority party holds in the partnership, it cannot be dismissed out of hand.</para>
+    <para id="para-00014">In a presidential regime, however, large numbers of voters face the unenviable task of voting for a candidate who is less than their first choice, and voters often frame that choice as voting for the “lesser of two evils.” In the 2016 US presidential election, 46 percent of Republicans indicated that neither of the major-party candidates would make a good president. For Democrat respondents, that percentage, while lower, was also substantial at 33 percent.<footnote id="foot-00014">“Election 2020: Voters Are Highly Engaged, but Nearly Half Expect to Have Difficulties Voting,” Pew Research Center, August 13, 2020, https://www.pewresearch.org/politics/2020/08/13/perceptions-of-trump-and-biden/.</footnote> In recent presidential elections, the percent of voters indicating satisfaction with the candidates has never been higher than 72 percent and has been as low as 33 percent. See <link target-id="fig-00002" document="m00055"/>.</para>
+    <note class="show-data" id="note-00003">
+    <figure id="fig-00002">
+    <media alt="A bar graph shows voters’ satisfaction with Presidential Candidates from 1992 through 2020. Voters who identified as democrats showed the least satisfaction (33%) in 1992 when Bill Clinton was the Democratic nominee and showed the most satisfaction (72%) in 2008 when Barack Obama was the Democratic nominee. Voters who identified as Republicans showed the least satisfaction (40%) in 1992 and 2016 when George H.W. Bush and Donald Trump (respectively) were the Republican nominee. Republican voters showed the most satisfaction (72%) in 2004 when George Bush was the Republican nominee.">
+    <image mime-type="image/png" src="../../media/POL_Figure_10_04_012.png"/></media>
+    <caption>Data from 1992 to 2020 indicating voters’ satisfaction with presidential candidates. (data source: Pew Research; attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    </note>
+    </section>
+    <section class="summary" id="sect-00006">
+    <title/>
+    <para id="para-00015">The main advantage of presidentialism is that presidents can claim a mandate and act quickly during a time of crisis. The judiciary is separate from the executive in presidential regimes, an arrangement that may help protect the rights of minority groups. The main disadvantages of presidentialism are that it may lead to gridlock, there is a relative lack of accountability, and the chief executive performs the roles of head of government and head of state. Within presidentialism, political parties are weaker. The advantages of parliamentarianism are unified government, clear lines of accountability, the representation of minority parties in the parliament, and stronger political parties. Parliamentarianism’s disadvantages include drastic policy change from one government to the next, coalition governments resulting in more frequent elections, and relatively fewer protections of minority rights.</para>
+    </section>
+    <section class="review-questions" id="sect-00007">
+    <title>Review Questions</title>
+    <section id="sect-00008">
+    <title/>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00016"><link class="os-embed" url="#exercise/PS_Ch10_Sec4_MCQ1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00017"><link class="os-embed" url="#exercise/PS_Ch10_Sec4_MCQ2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00018"><link class="os-embed" url="#exercise/PS_Ch10_Sec4_MCQ3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00019"><link class="os-embed" url="#exercise/PS_Ch10_Sec4_MCQ4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00020"><link class="os-embed" url="#exercise/PS_Ch10_Sec4_TFQ5"/></para></problem></exercise>
+    <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00021"><link class="os-embed" url="#exercise/PS_Ch10_Sec4_MCQ6"/></para></problem></exercise>
+    <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00022"><link class="os-embed" url="#exercise/PS_Ch10_Sec4_MCQ7"/></para></problem></exercise>
+    <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00023"><link class="os-embed" url="#exercise/PS_Ch10_Sec4_MCQ8"/></para></problem></exercise>
+    </section>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>gridlock</term> <meaning>a stalemate between competing parties that prevents governments from passing major legislation</meaning></definition>
+    <definition id="def-00002"><term>plurality voting</term> <meaning>a voting system in which the winning candidate is the one who receives the most votes even if the candidate does not receive more than 50 percent of the vote; also known as “first past the post”</meaning></definition>
+    <definition id="def-00003"><term>single-member districts</term> <meaning>electoral districts in which only a single individual is elected to represent an area</meaning></definition>
+    </glossary>    
 </document>
