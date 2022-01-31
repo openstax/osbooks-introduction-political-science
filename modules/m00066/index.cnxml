@@ -6,8 +6,16 @@
     <md:uuid>01ff36ec-3515-4936-8902-1b5451333476</md:uuid>
   </metadata>
   <content class="introduction">
-<section id="sect-00001">
-<para id="para-00001">Placeholder Text</para>
-</section>
-</content>
+    <figure class="splash" id="fig-00001">
+    <media alt="Republican Vice President Richard Nixon stands at a podium on a soundstage, facing a television camera, with microphones visible above his head. His seated opponent, Democratic Senator John F. Kennedy, looks on.">
+    <image mime-type="image/jpeg" src="../../media/POL_Figure_12_Intro_001_Splash.jpg"/></media>
+    <caption>Republican Vice President Richard Nixon and Democratic Senator John F. Kennedy in the United States’ first televised presidential debate, 1960 (credit: “Richard Nixon and John F. Kennedy Debate in Chicago While Being Televised” by Richard Nixon Library &amp; Birthplace/National Archives, Public Domain)</caption></figure>
+    <note class="media-video" id="note-00001">
+    <title>How JFK’s Clever TV Strategies Helped Him Win the Election</title>
+    <media alt="atoms_isotopes">
+    <iframe width="660" height="371.4" src="https://openstax.org/r/How_JFKs_Clever_TV"/>
+    </media>
+    </note>
+    <para id="para-00001">It was 1960, and Republican Vice President Richard <term class="no-emphasis" id="term-00001">Nixon</term> stood at the podium, appearing drained and sweaty, while his opponent, Democratic Senator John F. <term class="no-emphasis" id="term-00002">Kennedy</term> (JFK), looked as if he had been ready for this moment, the United States’ first televised presidential debate, his whole life. When asked which candidate did better, Nixon’s running mate, Henry Cabot Lodge, who had watched the debate on television, said he thought JFK did a better job. In contrast, Lyndon B. <term class="no-emphasis" id="term-00003">Johnson</term>, who was running on the Democratic ticket with JFK, listened to the debate on the radio and deemed Nixon the winner. Did Senator Kennedy’s good looks and confidence “win” the televised debate over a pale, overtired Nixon? Did the fact that the debate was televised change the outcome of the election? While academics have been unable to definitively answer these questions, one thing is sure: television changed politics that evening in 1960, and as an institution, the media continues to influence how people understand government, candidates, and policies.</para>
+    </content>    
 </document>
