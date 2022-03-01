@@ -1,212 +1,215 @@
-<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:sys="http://cnx.rice.edu/system-info" xmlns="http://cnx.rice.edu/collxml">
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
-    <md:uuid>89060098-2918-4037-8ebe-d90622d7a6bf</md:uuid>
     <md:title>Introduction to Political Science</md:title>
     <md:slug>introduction-political-science</md:slug>
-    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-    <md:content-id>col00000</md:content-id>
     <md:language>en</md:language>
+    <md:uuid>89060098-2918-4037-8ebe-d90622d7a6bf</md:uuid>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
-  <content>
-    <module document="m00097"/>
-    <subcollection>
+  <col:content>
+    <col:module document="m00097"/>
+    <col:subcollection>
       <md:title>Introduction to Politics and Political Science</md:title>
-      <content>
-        <subcollection>
+      <col:content>
+        <col:subcollection>
           <md:title>What Is Politics and What Is Political Science?</md:title>
-          <content>
-            <module document="m00001"/>
-            <module document="m00002"/>
-            <module document="m00003"/>
-            <module document="m00004"/>
-            <module document="m00005"/>
-            <module document="m00006"/>
-            <module document="m00007"/>
-          </content>
-        </subcollection>
-      </content>
-    </subcollection>
-    <subcollection>
+          <col:content>
+            <col:module document="m00001"/>
+            <col:module document="m00002"/>
+            <col:module document="m00003"/>
+            <col:module document="m00004"/>
+            <col:module document="m00005"/>
+            <col:module document="m00006"/>
+            <col:module document="m00007"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Individuals</md:title>
-      <content>
-        <subcollection>
+      <col:content>
+        <col:subcollection>
           <md:title>Political Behavior Is Human Behavior</md:title>
-          <content>
-            <module document="m00008"/>
-            <module document="m00009"/>
-            <module document="m00010"/>
-            <module document="m00013"/>
-            <module document="m00014"/>
-          </content>
-        </subcollection>
-        <subcollection>
+          <col:content>
+            <col:module document="m00008"/>
+            <col:module document="m00009"/>
+            <col:module document="m00010"/>
+            <col:module document="m00013"/>
+            <col:module document="m00014"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>Political Ideology</md:title>
-          <content>
-            <module document="m00015"/>
-            <module document="m00016"/>
-            <module document="m00017"/>
-            <module document="m00018"/>
-          </content>
-        </subcollection>
-        <subcollection>
+          <col:content>
+            <col:module document="m00015"/>
+            <col:module document="m00016"/>
+            <col:module document="m00017"/>
+            <col:module document="m00018"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>Civil Liberties</md:title>
-          <content>
-            <module document="m00019"/>
-            <module document="m00020"/>
-            <module document="m00021"/>
-          </content>
-        </subcollection>
-        <subcollection>
+          <col:content>
+            <col:module document="m00019"/>
+            <col:module document="m00020"/>
+            <col:module document="m00021"/>
+            <col:module document="m00098"/>
+            <col:module document="m00099"/>
+            <col:module document="m00100"/>
+            <col:module document="m00101"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>Political Participation and Public Opinion</md:title>
-          <content>
-            <module document="m00022"/>
-            <module document="m00023"/>
-            <module document="m00024"/>
-            <module document="m00025"/>
-            <module document="m00026"/>
-            <module document="m00027"/>
-            <module document="m00028"/>
-          </content>
-        </subcollection>
-      </content>
-    </subcollection>
-    <subcollection>
+          <col:content>
+            <col:module document="m00022"/>
+            <col:module document="m00023"/>
+            <col:module document="m00024"/>
+            <col:module document="m00025"/>
+            <col:module document="m00026"/>
+            <col:module document="m00027"/>
+            <col:module document="m00028"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Groups</md:title>
-      <content>
-        <subcollection>
+      <col:content>
+        <col:subcollection>
           <md:title>The Fundamentals of Group Political Activity</md:title>
-          <content>
-            <module document="m00029"/>
-            <module document="m00030"/>
-            <module document="m00031"/>
-            <module document="m00032"/>
-            <module document="m00033"/>
-            <module document="m00034"/>
-          </content>
-        </subcollection>
-        <subcollection>
+          <col:content>
+            <col:module document="m00029"/>
+            <col:module document="m00030"/>
+            <col:module document="m00031"/>
+            <col:module document="m00032"/>
+            <col:module document="m00033"/>
+            <col:module document="m00034"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>Civil Rights</md:title>
-          <content>
-            <module document="m00035"/>
-            <module document="m00036"/>
-            <module document="m00037"/>
-            <module document="m00038"/>
-          </content>
-        </subcollection>
-        <subcollection>
+          <col:content>
+            <col:module document="m00035"/>
+            <col:module document="m00036"/>
+            <col:module document="m00037"/>
+            <col:module document="m00038"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>Interest Groups, Political Parties, and Elections</md:title>
-          <content>
-            <module document="m00039"/>
-            <module document="m00040"/>
-            <module document="m00041"/>
-            <module document="m00042"/>
-            <module document="m00043"/>
-            <module document="m00044"/>
-            <module document="m00045"/>
-          </content>
-        </subcollection>
-      </content>
-    </subcollection>
-    <subcollection>
+          <col:content>
+            <col:module document="m00039"/>
+            <col:module document="m00040"/>
+            <col:module document="m00041"/>
+            <col:module document="m00042"/>
+            <col:module document="m00043"/>
+            <col:module document="m00044"/>
+            <col:module document="m00045"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Institutions</md:title>
-      <content>
-        <subcollection>
+      <col:content>
+        <col:subcollection>
           <md:title>Legislatures</md:title>
-          <content>
-            <module document="m00046"/>
-            <module document="m00047"/>
-            <module document="m00048"/>
-            <module document="m00049"/>
-            <module document="m00050"/>
-          </content>
-        </subcollection>
-        <subcollection>
+          <col:content>
+            <col:module document="m00046"/>
+            <col:module document="m00047"/>
+            <col:module document="m00048"/>
+            <col:module document="m00049"/>
+            <col:module document="m00050"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>Executives, Cabinets, and Bureaucracies</md:title>
-          <content>
-            <module document="m00051"/>
-            <module document="m00052"/>
-            <module document="m00053"/>
-            <module document="m00054"/>
-            <module document="m00055"/>
-            <module document="m00056"/>
-            <module document="m00057"/>
-            <module document="m00058"/>
-          </content>
-        </subcollection>
-        <subcollection>
+          <col:content>
+            <col:module document="m00051"/>
+            <col:module document="m00052"/>
+            <col:module document="m00053"/>
+            <col:module document="m00054"/>
+            <col:module document="m00055"/>
+            <col:module document="m00056"/>
+            <col:module document="m00057"/>
+            <col:module document="m00058"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>Courts and Law</md:title>
-          <content>
-            <module document="m00059"/>
-            <module document="m00060"/>
-            <module document="m00061"/>
-            <module document="m00062"/>
-            <module document="m00063"/>
-            <module document="m00064"/>
-            <module document="m00065"/>
-          </content>
-        </subcollection>
-        <subcollection>
+          <col:content>
+            <col:module document="m00059"/>
+            <col:module document="m00060"/>
+            <col:module document="m00061"/>
+            <col:module document="m00062"/>
+            <col:module document="m00063"/>
+            <col:module document="m00064"/>
+            <col:module document="m00065"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>The Media</md:title>
-          <content>
-            <module document="m00066"/>
-            <module document="m00067"/>
-            <module document="m00068"/>
-            <module document="m00069"/>
-            <module document="m00070"/>
-            <module document="m00071"/>
-          </content>
-        </subcollection>
-      </content>
-    </subcollection>
-    <subcollection>
+          <col:content>
+            <col:module document="m00066"/>
+            <col:module document="m00067"/>
+            <col:module document="m00068"/>
+            <col:module document="m00069"/>
+            <col:module document="m00070"/>
+            <col:module document="m00071"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>States and International Relation</md:title>
-      <content>
-        <subcollection>
+      <col:content>
+        <col:subcollection>
           <md:title>Governing Regimes</md:title>
-          <content>
-            <module document="m00072"/>
-            <module document="m00073"/>
-            <module document="m00074"/>
-            <module document="m00075"/>
-          </content>
-        </subcollection>
-        <subcollection>
+          <col:content>
+            <col:module document="m00072"/>
+            <col:module document="m00073"/>
+            <col:module document="m00074"/>
+            <col:module document="m00075"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>International Relations</md:title>
-          <content>
-            <module document="m00076"/>
-            <module document="m00077"/>
-            <module document="m00078"/>
-            <module document="m00079"/>
-            <module document="m00080"/>
-            <module document="m00081"/>
-            <module document="m00082"/>
-            <module document="m00083"/>
-          </content>
-        </subcollection>
-        <subcollection>
+          <col:content>
+            <col:module document="m00076"/>
+            <col:module document="m00077"/>
+            <col:module document="m00078"/>
+            <col:module document="m00079"/>
+            <col:module document="m00080"/>
+            <col:module document="m00081"/>
+            <col:module document="m00082"/>
+            <col:module document="m00083"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>International Law and International Organizations</md:title>
-          <content>
-            <module document="m00084"/>
-            <module document="m00085"/>
-            <module document="m00086"/>
-            <module document="m00087"/>
-            <module document="m00088"/>
-            <module document="m00089"/>
-            <module document="m00090"/>
-          </content>
-        </subcollection>
-        <subcollection>
+          <col:content>
+            <col:module document="m00084"/>
+            <col:module document="m00085"/>
+            <col:module document="m00086"/>
+            <col:module document="m00087"/>
+            <col:module document="m00088"/>
+            <col:module document="m00089"/>
+            <col:module document="m00090"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
           <md:title>International Political Economy</md:title>
-          <content>
-            <module document="m00091"/>
-            <module document="m00092"/>
-            <module document="m00093"/>
-            <module document="m00094"/>
-            <module document="m00095"/>
-            <module document="m00096"/>
-          </content>
-        </subcollection>
-      </content>
-    </subcollection>
-  </content>
+          <col:content>
+            <col:module document="m00091"/>
+            <col:module document="m00092"/>
+            <col:module document="m00093"/>
+            <col:module document="m00094"/>
+            <col:module document="m00095"/>
+            <col:module document="m00096"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
 </col:collection>
