@@ -8,33 +8,25 @@
   <content>
     <section class="learning-objectives" id="sect-00001">
     <title>Learning Outcomes</title>
-    <para id="para-00001">By the end of this section, you should be able to:</para>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
     <list id="list-00001">
     <item>Identify the three types of democratic regimes.</item>
     <item>Distinguish between the roles of “head of state” and “head of government” and describe how each is typically selected by regime.</item>
     <item>Describe and evaluate the importance of the head of state for government legitimacy and national unity.</item>
     </list>
     </section>
-    <para id="para-00002">Democratic regimes are typically classified into three categories: presidential, parliamentary, and semi-presidential.<cite target-id="rf-00001" id="cite-00001"><note class="reference" display="inline" id="rf-00001">Nils-Christian Bormann and Matt Golder, “Democratic Electoral Systems around the World, 1946–2011,” <emphasis effect="italics">Electoral Studies</emphasis> 32, no. 2 (June 2013), 360–369.</note></cite> The keys to understanding the differences among the three are (1) how the head of government is selected and (2) if there is a separate head of state who is popularly elected to a fixed term of office. In <term id="term-00001">presidential regimes</term>, heads of government are popularly elected to fixed terms and do not depend on legislatures for their power. Presidents also serve as heads of state. In <term id="term-00002">parliamentary regimes</term>, the head of government, the <term id="term-00003">prime minister</term>, is selected by the legislature. <term id="term-00004">Semi-presidential regimes</term> include a popularly elected head of state and a legislature selected head of government. In semi presidential regimes, both presidents and prime ministers wield political power. See Table 10.1.</para>
+    <para id="para-00002">Democratic regimes are typically classified into three categories: presidential, parliamentary, and semi-presidential.<cite target-id="rf-00001" id="cite-00001"><note class="reference" display="inline" id="rf-00001">Nils-Christian Bormann and Matt Golder, “Democratic Electoral Systems around the World, 1946–2011,” <emphasis effect="italics">Electoral Studies</emphasis> 32, no. 2 (June 2013), 360–369.</note></cite> The keys to understanding the differences among the three are (1) how the head of government is selected and (2) if there is a separate head of state who is popularly elected to a fixed term of office. In <term id="term-00001">presidential regimes</term>, heads of government are popularly elected to fixed terms and do not depend on legislatures for their power. Presidents also serve as heads of state. In <term id="term-00002">parliamentary regimes</term>, the head of government, the <term id="term-00003">prime minister</term>, is selected by the legislature. Semi-presidential regimes include a popularly elected head of state and a legislature selected head of government. In <term id="term-00004">semi-presidential regimes</term>, both presidents and prime ministers wield political power. See Table 10.1.</para>
+    <para id="para-00003">Using Witten/Herdecke University Professor Nils-Christian <term class="no-emphasis" id="term-00005">Bormann</term> and Penn State University professor Matt <term class="no-emphasis" id="term-00006">Golder</term>’s classification and supplementing the data with former Dublin City University professor Robert <term class="no-emphasis" id="term-00007">Elgie</term>’s list of semi-presidential countries, approximately 36 percent of democracies are parliamentary, 25 percent are presidential, and 39 percent are semi-presidential. (See <link target-id="fig-00001" document="m00052"/>.) Following a traditional approach within comparative politics, this chapter will focus primarily on parliamentary and presidential regimes and not semi-presidential ones. Even though semi presidential regimes comprise a large category, they are not easily defined and have considerable variation.<cite target-id="rf-00002" id="cite-00002"><note class="reference" display="inline" id="rf-00002">José Antonio Cheibub, Zachary Elkins, and Tom Ginsburg, “Beyond Presidentialism and Parliamentarianism,” <emphasis effect="italics">British Journal of Political Science</emphasis> 44, no. 3 (July 2014): 515–544.</note></cite></para>
     <table summary="" id="table-00001">
-    <title>The Structure of Democratic Regimes</title>
     <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
     <colspec colnum="4" colname="c4"/>
-    <thead>
-    <row>
-    <entry align="center" namest="c1" nameend="c4">The Structure of Democratic Regimes</entry>
-    </row>
-    <row>
-    <entry align="center" namest="c1" nameend="c4"> </entry>
-    </row>
-    <row>
-    <entry align="center" namest="c1" nameend="c4">Head of Government</entry>
-    </row>
-    </thead>
     <tbody>
+    <row class="header-row">
+    <entry align="center" namest="c1" nameend="c4"><emphasis effect="bold">Head of Government</emphasis></entry>
+    </row>
     <row>
     <entry align="left"> </entry>
     <entry align="left">Presidential</entry>
@@ -92,7 +84,6 @@
     </tbody>
     </tgroup>
     </table>
-    <para id="para-00003">Using <term class="no-emphasis" id="term-00005">Bormann</term> and <term class="no-emphasis" id="term-00006">Golder</term>’s classification and supplementing the data with Robert <term class="no-emphasis" id="term-00007">Elgie</term>’s list of semi-presidential countries, approximately 36 percent of democracies are parliamentary, 25 percent are presidential, and 39 percent are semi-presidential. (See <link target-id="fig-00001" document="m00052"/>.) Following a traditional approach within comparative politics, our primary focus is on parliamentary and presidential regimes and not semi-presidential ones. Even though semi presidential regimes comprise a large category, they are not easily defined and have considerable variation.<cite target-id="rf-00002" id="cite-00002"><note class="reference" display="inline" id="rf-00002">José Antonio Cheibub, Zachary Elkins, and Tom Ginsburg, “Beyond Presidentialism and Parliamentarianism,” <emphasis effect="italics">British Journal of Political Science</emphasis> 44, no. 3 (July 2014): 515–544.</note></cite></para>
     <note class="show-data" id="note-00001">
     <figure id="fig-00001">
     <media alt="A bar graph shows that, among democratic regimes, more than a third are semi-presidential, nearly as many are parliamentary, and a quarter are presidential.">
@@ -108,20 +99,22 @@
     <media alt="atoms_isotopes">
     <iframe width="660" height="371.4" src="https://openstax.org/r/Open_the_Olympic_Games"/>
     </media>
+    <para id="para-00018">In this video, heads of state--including a führer, kings, a queen, a duke, an emperor, a chairperson, a governor-general, a vice president, and multiple presidents--preside over Olympic opening ceremonies.</para>
+  </note>
     <para id="para-00006">Illustrating the unifying role a head of state provides, one of the more memorable moments of President George W. <term class="no-emphasis" id="term-00012">Bush</term>’s first administration was when he threw the ceremonial first pitch in game 3 of the 2001 World Series. Taken just a few short months after <term class="no-emphasis" id="term-00013">9/11</term>, the pictures of him at the mound, throwing a strike, are iconic. Presidents are the most recognizable leaders of their countries, and one of the key roles they play is to symbolically represent the state. Additionally, sports are intricately woven into each country’s cultural fabric. Baseball is known as “America’s pastime.” When President Bush threw the ceremonial first pitch, he stood as a unifying symbol relatable to people across party lines. As noted author David <term class="no-emphasis" id="term-00014">Fisher</term> observed: “I didn’t vote for him. But at that point, my personal feelings about him as a politician [were] gone. I watched him, and he was my representative. And I had never felt that way before.”<cite target-id="rf-00003" id="cite-00003"><note class="reference" display="inline" id="rf-00003">This YouTube clip by Townhall provides a great overview of the event and the event’s importance: https://www.youtube.com/watch?v=bxR1tZ08FcI. Fisher’s quote comes at the 3:38 mark. See https://us.macmillan.com/author/davidfisher/.</note></cite> Nineteen years later, writing for <emphasis effect="italics">Newsweek</emphasis>, Marina <term class="no-emphasis" id="term-00015">Watts</term> commented on the power of imagery: “That night, the first pitch meant more than just ‘play ball.’ It meant moving forward. It meant unity. With that throw, Bush helped heal a city and a nation.”<cite target-id="rf-00004" id="cite-00004"><note class="reference" display="inline" id="rf-00004">Marina Watts, “Why George Bush’s 2001 World Series First Pitch Meant More Than Just ‘Play Ball,’” <emphasis effect="italics">Newsweek</emphasis>, September 11, 2020, https://www.newsweek.com/why-george-bushs-2001-world-series-first-pitch-meant-more-just-play-ball-1531324.</note></cite></para>
     <note class="media-video" id="note-00003">
     <title>President George W. Bush’s Opening Pitch at Yankee Stadium after 9-11</title>
     <media alt="atoms_isotopes">
     <iframe width="660" height="371.4" src="https://openstax.org/r/Bushs_Opening_Pitch_at_Yankee_Stadium"/>
     </media>
+    <para id="para-00019">This video portrays the ceremony and symbolism of a leader acting in the role of head of state.</para>
     </note>
     <para id="para-00007">Heads of state also provide <term class="no-emphasis" id="term-00016">legitimacy</term> to a government. While all states have coercive power, democratic governments depend upon citizen recognition that the <term class="no-emphasis" id="term-00017">authority</term> the state has and the power it exerts are legitimate. When the head of state is separate from the head of government, the head of state can play a significant role in establishing and reinforcing the legitimacy of that government.</para>
     <figure id="fig-00002">
     <media alt="Queen Elizabeth II and Prince Phillip sit on thrones, wearing formal regalia, at the front of a room filled with well-dressed people seated in rows.">
     <image mime-type="image/jpeg" src="../../media/POL_Figure_10_01_005.jpg"/></media>
     <caption>Queen Elizabeth II opens Canada’s 23rd Parliament in the Senate Chamber, Ottawa, Ontario. (credit: “Her Majesty Queen Elizabeth II opens Canada’s 23rd Parliament in the Senate Chamber, Ottawa, Ontario” by Library and Archives Canada, Public Domain)</caption></figure>
-    <para id="para-00008">In Great Britain, the Queen invites the winning party’s leader to form a government, and the Queen then gives a speech prepared by that new government laying out the government’s policy agenda and legislative initiatives. The new government has immediate legitimacy based on both winning elections and the visible support of the Crown. Often, the Queen’s representative performs her duties as head of state in the 16 Commonwealth realms, like Australia and New Zealand, but early in her reign she traveled more extensively and performed more of those duties in person.</para>
-    </note>
+    <para id="para-00008">In Great Britain, the Queen invites the winning party’s leader to form a government, and the Queen then gives a speech prepared by that new government laying out the government’s policy agenda and legislative initiatives. The new government has immediate legitimacy based on both winning elections and the visible support of the Crown. Often, the Queen’s representative performs her duties as head of state in the 16 Commonwealth realms, like Australia and New Zealand, but early in her reign Queen Elizabeth II traveled more extensively and performed more of those duties in person.</para>
     </section>
     <section id="sect-00003">
     <title>The Roles of Chief Executives within Democratic Regimes: Head of Government</title>
@@ -131,7 +124,7 @@
     </section>
     <section class="summary" id="sect-00004">
     <title/>
-    <para id="para-00012">Democratic systems are classified into three categories: presidential regimes, parliamentary regimes, and semi presidential regimes. Within each regime, there is a head of government as well as a head of state. In presidential regimes, the head of government is directly elected by the citizens and also serves as the head of state. In parliamentary and semi presidential regimes, the head of government and head of state are separate individuals, and the legislature selects the head of government. Generally, the head of state is a ceremonial role, while the head of government holds political power and takes the lead in setting the policy agenda.</para>
+    <para id="para-00012">Democratic systems are classified into three categories: presidential regimes, parliamentary regimes, and semi-presidential regimes. Within each regime, there is a head of government as well as a head of state. In presidential regimes, the head of government is directly elected by the citizens and also serves as the head of state. In parliamentary and semi-presidential regimes, the head of government and head of state are separate individuals, and the legislature selects the head of government. Generally, the head of state is a ceremonial role, while the head of government holds political power and takes the lead in setting the policy agenda.</para>
     </section>
     <section class="review-questions" id="sect-00005">
     <title/>
