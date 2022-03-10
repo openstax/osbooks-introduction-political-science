@@ -6,8 +6,11 @@
     <md:uuid>0bd990e3-d8ef-444a-a124-8b64841bdb8f</md:uuid>
   </metadata>
   <content class="introduction">
-<section id="sect-00001">
-<para id="para-00001">Placeholder Text</para>
-</section>
-</content>
+    <figure class="splash" id="fig-00001"><media alt="A small man-made island in the South China Sea is seen from above. The island is a narrow ring, with a small inlet allowing water into the interior of the island."><image mime-type="image/jpeg" src="../../media/POL_Figure_14_Intro_001_Splash.jpg"/></media>
+    <caption>In an attempt to expand its presence in the South China Sea, China is beginning to construct artificial islands, which are being used as a base for Chinese military operations. Their proximity to US allies such as the Philippines creates some concern about the role China wishes to play in asserting its control over what goes on in Southeast Asia. (credit: “One of the militarized islands by China off the coast of Philippines” by Tony Peters/Flickr, CC BY 2.0)</caption></figure>
+    <para id="para-00001">The study of <term id="term-00001">international relations</term> is a subfield of political science that focuses on the ways that different states interact with one another. The main goal of all relationships among states is to work toward making the international system one of peace—friendly, nonviolent relations among states—and balance—an equal distribution of the chance for any country to take the lead in setting the course for the international system. As with all things related to politics, who has the means to exert their power to guide the action of members of the political community determines who gets to set the terms of “peace” and be in charge of what “balance” looks like. Power can best be defined as the ability to establish and enforce the rules to which all other actors in a system must adhere. This chapter looks at the different players in the international system and how they interact. It examines the principles that guide the establishment of the political, social, and economic environment in which these interactions take place.</para>
+    </content>
+    <glossary>
+      <definition id="def-00001"><term>international relations</term> <meaning>a subfield of political science that focuses on the ways different states interact with one another</meaning></definition>
+    </glossary>
 </document>
