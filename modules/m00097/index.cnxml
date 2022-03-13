@@ -56,7 +56,7 @@
     </section>
     <section id="sect-00011">
     <title>Section Summaries</title>
-    <para id="para-00012">End-of-chapter summaries, broken down by chapter sections, distill the key information in each chapter for both students and instructors.</para>
+    <para id="para-00012">End-of-chapter summaries, broken down by chapter sections, distill the information in each chapter.</para>
     </section>
     <section id="sect-00012">
     <title>Key Terms</title>
@@ -142,11 +142,10 @@
     <para id="para-00055">We’ve compiled additional resources for both students and instructors, including Getting Started Guides, an instructor’s manual, a test bank, and image slides. Instructor resources require a verified instructor account, which you can apply for when you log in or create your account on OpenStax.org. Take advantage of these resources to supplement your OpenStax book.</para>
     <para id="para-00056">Comprehensive instructor’s manual. Each component of the instructor’s manual is designed to provide maximum guidance for delivering the content in an interesting and dynamic manner. For each chapter, the instructor’s manual includes</para>
     <list id="list-00002">
-      <item>a chapter overview</item>
-      <item>ideas for six different classroom activities with criteria for student success</item>
-        <item>links to data resources and informational video clips</item>
-          <item>discussion/recap questions</item>
-            <item>a list of key terms</item>
+    <item>a chapter overview</item>
+    <item>ideas for six different classroom activities with criteria for student success</item>
+    <item>links to data resources and informational video clips</item>
+    <item>discussion/recap questions</item>
     </list>
     <para id="para-00061">Authored by Jeffrey Moyer, visiting lecturer, Northeastern University.</para>
     <para id="para-00057">Test bank. The 400 multiple choice and true/false questions in our test bank are correlated to the six levels of Bloom’s Taxonomy, allowing instructors to customize tests to support a variety of course objectives. The test bank is available in Word format. Authored by Shyam Krishnan Sriram, Gonzaga University.</para>
