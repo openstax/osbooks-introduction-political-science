@@ -25,17 +25,19 @@
     <colspec colnum="2" colname="c2" colwidth="1*"/>
     <colspec colnum="3" colname="c3" colwidth="1*"/>
     <colspec colnum="4" colname="c4" colwidth="1*"/>
+    <thead>
+    <row>
+    <entry align="center" namest="c1" nameend="c2">Presidentialism</entry>
+    <entry align="center" namest="c3" nameend="c4">Parliamentarianism</entry>
+    </row>
+    <row>
+    <entry align="center">Advantages</entry>
+    <entry align="center">Disadvantages</entry>
+    <entry align="center">Advantages</entry>
+    <entry align="center">Disadvantages</entry>
+    </row>
+    </thead>
     <tbody>
-    <row>
-    <entry align="center" namest="c1" nameend="c2"><emphasis effect="bold">Presidentialism</emphasis></entry>
-    <entry align="center" namest="c3" nameend="c4"><emphasis effect="bold">Parliamentarianism</emphasis></entry>
-    </row>
-    <row>
-    <entry align="center"><emphasis effect="bold">Advantages</emphasis></entry>
-    <entry align="center"><emphasis effect="bold">Disadvantages</emphasis></entry>
-    <entry align="center"><emphasis effect="bold">Advantages</emphasis></entry>
-    <entry align="center"><emphasis effect="bold">Disadvantages</emphasis></entry>
-    </row>
     <row>
     <entry align="left">Presidents can claim a mandate and take the lead in setting the legislative agenda.</entry>
     <entry align="left">If there is divided government, it can lead to gridlock.</entry>
