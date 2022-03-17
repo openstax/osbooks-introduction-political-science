@@ -6,8 +6,116 @@
     <md:uuid>d3276f8e-ae25-4bd4-ab99-272dc4f5748d</md:uuid>
   </metadata>
   <content>
-<section id="sect-00001">
-<para id="para-00001">Placeholder Text</para>
-</section>
-</content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Outcomes</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Explain different types and purposes of NGOs.</item>
+    <item>Identify influential NGOs and their areas of emphasis.</item>
+    <item>Discuss the role of NGOs in global governance.</item>
+    <item>Evaluate the contributions of NGOs.</item>
+    </list>
+    </section>
+    <para id="para-00002">While most people are familiar with the work of the largest IGOs like the UN, NATO, or the EU, they may be less familiar with how <term id="term-00001">nongovernmental organizations (NGOs)</term> contribute to global governance. NGOs operate independently of a government or state and are open to the citizens of various countries rather than to the countries themselves. These non-state actors engage in transnational relations, cross-border interactions that may happen with minimal or no government involvement. In some cases, NGOs collaborate with governments, but often the goals of NGOs and particular governments do not align, and their relationships become more conflicted.</para>
+    <para id="para-00003">The Union of International Associations lists over 8,500 NGOs worldwide; depending on how they are counted, that number may be in the tens of thousands.<footnote id="foot-00001">“The Yearbook of International Organizations,” Union of International Associations, accessed January 25, 2022, https://uia.org/yearbook; “Human Rights Activism and the Role of NGOs,” Council of Europe, accessed January 25, 2022, https://www.coe.int/en/web/compass/human-rights-activism-and-the-role-of-ngos#Types_of_human.</footnote><emphasis effect="italics"/> NGOs mobilize individuals around a common concern, and they help facilitate the work of the United Nations and other IGOs. In terms of global governance, NGOs are a part of the global <term id="term-00002">civil society</term>, that is, the arena in which groups come together to engage in collective action in the service of shared interests, values, and goals outside government or profit-based motivations.</para>
+    <section id="sect-00002">
+    <title>What Do NGOs Do?</title>
+    <para id="para-00004">In most cases, NGOs are designed to address a <term id="term-00003">transnational</term> concern—like the environment, humanitarian issues, health care, economic development, or conflict cessation—that is important to all and necessitates cooperation across borders. Within these broad areas, the majority of NGOs focus on specific issues, such as saving endangered species, conducting anti-malaria programs in tropical zones, or providing small loans to local farmers in South Asia.</para>
+    <para id="para-00005">Often NGOs are the result of a moral crusade of one or a small group of concerned citizens. For example, Henry <term class="no-emphasis" id="term-00004">Dunant</term> founded the <term class="no-emphasis" id="term-00005">Red Cross</term> in the mid-1800s to aid soldiers injured in war. Some other well-known NGOs include Doctors without Borders, Greenpeace, and the World Wildlife Fund. Some NGOs have thousands of members, while others have only a few hundred, and their budgets and scope of impact are similarly varied. The <term class="no-emphasis" id="term-00006">Bangladesh Rural Advancement Committee (BRAC)</term>, with close to 100,000 people on staff, is the largest NGO in the world.</para>
+    <para id="para-00006">Although NGOs exist in wealthy countries, most of the work of NGOs happens in the poorest and most conflict-torn areas of the world. In developing countries, NGOs often help fulfill needs that the government cannot, like providing access to adequate health care, nutrition, education, sanitation, or potable water. They also play an active role in the aftermath of natural disasters like hurricanes or floods and provide relief in emergency situations such as refugee or famine crises.</para>
+    <note class="media-video" id="note-00001">
+    <title>What Is an NGO?</title>
+    <media alt="atoms_isotopes">
+    <iframe width="660" height="371.4" src="https://openstax.org/r/what-is-an-ngo"/>
+    </media>
+    <para id="para-00007">Chris Nkuwatsibwe of the Uganda NGO Forum provides a basic explanation of NGOs.</para>
+    </note>
+    <para id="para-00008">The work of NGOs is expensive. In 2015, the 50 largest humanitarian NGOs alone spent $18 billion annually.<footnote id="foot-00002">Tom Esslemont, “Exclusive: Which Aid Relief Charities Spend the Most on Fundraising?” <emphasis effect="italics">Reuters</emphasis>, July 14, 2015, https://www.reuters.com/article/us-aid-business/exclusive-which-aid-relief-charities-spend-the-most-on-fundraising-idUSKCN0PP00F20150715.</footnote> NGOs receive funding from a variety of sources, including member dues, grants from governments, development banks, and philanthropic foundations. Governments or IGOs may contract NGOs to do specific tasks in a broader development plan, and development, humanitarian, or disaster aid is funneled often through NGOs that have an established presence in the region. The World Bank estimates that over 15 percent of total overseas development aid is channeled through NGOs. The UN High Commissioner for Refugees allocates approximately 40 percent of its budget to over 800 partner NGOs.<footnote id="foot-00003">“Figures at a Glance,” UNHCR, https://www.unhcr.org/en-us/figures-at-a-glance.html.</footnote> Like government aid agencies in other states, the  <term class="no-emphasis" id="term-00007">United States Agency for International Development (USAID)</term>partners with NGOs to deliver aid and to implement programming.<footnote id="foot-00004">“Non-governmental Organizations (NGOs),” USAID, last updated December 9, 2019, https://www.usaid.gov/partnership-opportunities/ngo.</footnote> People sympathetic to an organization’s mission provide the largest share of most organizations’ budgets.</para>
+    <table summary=" " id="table-00001">
+    <title>Sampling of Major Nongovernmental Organizations</title>
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <thead>
+    <row>
+    <entry align="center">NGO</entry>
+    <entry align="center">Scope of Operation</entry>
+    <entry align="center">Year Founded</entry>
+    <entry align="center">Issue Area</entry>
+    <entry align="center">Website</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row>
+    <entry align="left">Greenpeace</entry>
+    <entry align="left">3 million members, offices in 40 countries</entry>
+    <entry align="center">1971</entry>
+    <entry align="left">Largest environmental organization in the world</entry>
+    <entry align="left">https://www.greenpeace.org/international/</entry>
+    </row>
+    <row>
+    <entry align="left">Doctors without Borders (Médecins Sans Frontières—MSF)</entry>
+    <entry align="left">Employs 30,000 and works in more than 70 countries</entry>
+    <entry align="center">1971</entry>
+    <entry align="left">Medical humanitarian assistance to victims of conflict, natural disasters, epidemics, or health care exclusion</entry>
+    <entry align="left">https://www.doctorswithoutborders.org/</entry>
+    </row>
+    <row>
+    <entry align="left">Mercy Corps</entry>
+    <entry align="left">Works in over 40 countries, reaching 50 million people</entry>
+    <entry align="center">1979</entry>
+    <entry align="left">Global aid agency, helping people survive crises, escape poverty, and transform communities</entry>
+    <entry align="left">https://www.mercycorps.org/</entry>
+    </row>
+    <row>
+    <entry align="left">Open Society Foundation</entry>
+    <entry align="left">Works in 120 countries, spends over $1 billion each year</entry>
+    <entry align="center">1993</entry>
+    <entry align="left">Promotion of democracy around the world</entry>
+    <entry align="left">https://www.opensocietyfoundations.org/</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    </section>
+    <section id="sect-00003">
+    <title>What Are Some Weaknesses of NGOs?</title>
+    <para id="para-00009">NGOs can only work where governments accept their presence. Governments in strict authoritarian states like North Korea allow virtually no NGO activity, whereas governments in many other countries place almost no restrictions on NGOs. In recent years, however, more governments have placed restrictions on NGO activities in their states.<footnote id="foot-00005">“Global Assault on NGOs Reaches Crisis Point as New Laws Curb Vital Human Rights Work,” Amnesty International, February 21, 2019, https://www.amnesty.org/en/latest/news/2019/02/global-assault-on-ngos-reaches-crisis-point/.</footnote> In particular, human rights groups and religiously affiliated organizations meet with resistance in some countries that view them as undermining the government or “national unity.”</para>
+    <para id="para-00010">Some criticize NGOs for being too narrowly focused on a specific issue rather than working on larger systemic problems. Some contend that NGOs should better coordinate with other actors rather than working in isolation and that reliance on Western donors leads NGOs to focus on projects that are more easily “sold” instead of those that are arguably more critical. NGOs may not be interested in or able to solve the root cause of a particular problem, and hence the solutions they provide may be temporary. Observers scrutinize NGOS, like many nonprofit organizations, for how much of their budgets go toward fundraising, advertising, and overhead rather than to directly helping their stated cause.</para>
+    </section>
+    <section id="sect-00004">
+    <title>What Role Do NGOs Play in Providing Collective Goods?</title>
+    <para id="para-00011">NGOs have been a presence at the UN since its earliest days, when they successfully lobbied the UN to include the promotion of human rights as part of its mission in the UN Charter.<footnote id="foot-00006">Peter Willetts, “The Role of NGOs in Global Governance,” <emphasis effect="italics">World Politics Review</emphasis>, September 27, 2011, https://www.worldpoliticsreview.com/insights/10147/the-growing-role-of-global-ngos-in-global-governance.</footnote> Approximately 6,000 NGOs currently have “consultative status” with ECOSOC, which allows them to have input into policy discussions and to access UN documents.</para>
+    <para id="para-00012">International treaties provide collective goods, and NGOs have had significant input into the formation of most contemporary treaties, including the Paris Agreement (climate change) and the <term class="no-emphasis" id="term-00008">UN Convention on the Rights of the Child</term>. NGOs often form groups that work together to advance common goals—for instance, religious NGOs created the <term class="no-emphasis" id="term-00009">Committee of Religious NGOs at the UN (RUN)</term>, which has its own meetings and coordinates policies and responses to issues of common concern.<footnote id="foot-00007">“About,” Committee of Religious NGOs at the United Nations, accessed February 3, 2022, https://rngos.wordpress.com/.</footnote> During the years of negotiations over the Rome Treaty, interested NGOs formed a group called the Coalition for the International Criminal Court to help draft and convince states to ratify the treaty. Two other NGO coalitions, the <term class="no-emphasis" id="term-00010">International Campaign to Ban Landmines</term> and the <term class="no-emphasis" id="term-00011">Cluster Munition Coalition</term>, were central in drafting and convincing states to join the <term class="no-emphasis" id="term-00012">Mine Ban Treaty</term> (1997) and the <term class="no-emphasis" id="term-00013">Convention on Cluster Munitions</term> (2010), respectively.</para>
+    <para id="para-00013">NGOs have had the most success lobbying for the adoption of international human rights treaties.<footnote id="foot-00008">Jeffery Huffines, “The Role of N.G.O.S in U.S. Ratification of Human Rights Treaties,” <emphasis effect="italics">ILSA Journal of International &amp; Comparative Law</emphasis> 3, no. 641 (1997): 641-652, https://core.ac.uk/download/pdf/51089202.pdf.</footnote> In the 1960s, Peter <term class="no-emphasis" id="term-00014">Benenson</term> formed the influential human rights NGO <term class="no-emphasis" id="term-00015">Amnesty International</term> to pressure governments to release political prisoners.</para>
+    <figure id="fig-00001">
+    <media alt="A person wearing an orange jumpsuit stands in front of a marble building that is decorated with a statue of a seated figure and Greek columns. A black hood completely covers the person's head and face. Behind the person, a uniformed police officer stands on the steps of the building."><image mime-type="image/jpeg" src="../../media/POL_Figure_15_05_020.jpg"/></media>
+    <caption>In 2007, Amnesty International protested the sixth anniversary of the arrival of detainees at the controversial US military prison at the Guantanamo Bay Naval Base in Cuba. (credit: “Black Hood, Orange Jumpsuit, Bored Cop, ‘Authority of Law’ Statue by James Earle Fraser Outside The Third Guantanamo Hearing at The Supreme Court (Washington, DC)” by Takomabibelot/Flickr, Public Domain)</caption>
+    </figure>
+    <para id="para-00014">Amnesty International has played an essential role in ensuring the adoption of at least three core international human rights treaties: the <term class="no-emphasis" id="term-00016">Convention against Torture</term> and Other Cruel, Inhuman or Degrading Treatment or Punishment (the “Torture Convention”) (1984), the Rome Treaty (2002), and the <term class="no-emphasis" id="term-00017">Arms Trade Treaty</term> (2014). In 1997, Amnesty International won the Nobel Peace Prize for its work.</para>
+    </section>
+    <section id="sect-00005">
+    <title>How Do NGOs Contribute to Global Governance?</title>
+    <para id="para-00015">In addition to drafting and convincing states to sign international treaties, NGOs help IGOs and state-based development agencies. They engage in information sharing and advocacy efforts, assist in emergencies, and play a key role in reinforcing the legitimacy of global governance.<footnote id="foot-00009">“NGOs and the United Nations: Comments for the Report of the Secretary General,” Global Policy Forum, June 1999, https://archive.globalpolicy.org/component/content/article/176-general/31440-ngos-and-the-united-nations.html#:~:text=NGOs%20seek%20the%20greatest%20possible,documents%20in%20Resolution%201996%2F31.</footnote></para>
+    <para id="para-00016">NGOs also help monitor compliance with international treaties, often, as in the Convention on the Rights of the Child, under authority granted by the treaties themselves.<footnote id="foot-00010">Kal Raustiala, “The Role of NGOs in International Treaty-Making,” in <emphasis effect="italics">The Oxford Guide to Treaties</emphasis> (Oxford, UK: Oxford University Press, 2012), https://ssrn.com/abstract=1928937; Rachel Brett, “The Roles and Limits of Human Rights NGOs at the UN,” <emphasis effect="italics">Political Studies</emphasis> XLIII (1995): 96–110, https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9248.1995.tb01738.x.</footnote> As NGO expert Peter <term class="no-emphasis" id="term-00018">Willets</term> noted, “were it not for NGOs, there would be no international law of human rights and no U.N. machinery to protect them.”<footnote id="foot-00011">Peter Willetts, “The Role of NGOs in Global Governance,” <emphasis effect="italics">World Politics Review,</emphasis> September 27, 2011, https://www.worldpoliticsreview.com/insights/10147/the-growing-role-of-global-ngos-in-global-governance.</footnote></para>
+    <para id="para-00017">Due to the nature of their work on the front lines in countries around the world, NGOs often have more information about what is happening in another country than a government or IGO has. This allows NGOs to serve as informal monitors of state behavior. By providing evidence and testimonies, NGOs can draw international attention to situations such as human rights abuses or worsening humanitarian or environmental conditions. Such pressure may cause governments to change their policies or provide critical aid to regions that may have been under-resourced.<footnote id="foot-00012">Sarah Stroup, <emphasis effect="italics">NGOs’ Interactions with States</emphasis> (New York: Routledge, 2019), https://www.routledgehandbooks.com/doi/10.4324/9781315268927-3.</footnote></para>
+    </section>
+    <section class="summary" id="sect-00006">
+    <title/>
+    <para id="para-00018">Unlike IGOs, nongovernmental organizations (NGOs) are able to exercise influence in given issue areas, improving lives of people around the world and not just within a given region or group of states. Because NGOs are not affiliated with particular states, they rely heavily on charitable funding and can only work directly in states that allow their presence.</para>
+    </section>
+    <section class="review-questions" id="sect-00007">
+    <title/>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00019"><link class="os-embed" url="#exercise/PS_Ch15_Sec5_MCQ1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00020"><link class="os-embed" url="#exercise/PS_Ch15_Sec5_MCQ2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00021"><link class="os-embed" url="#exercise/PS_Ch15_Sec5_MCQ3"/></para></problem></exercise>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>civil society</term> <meaning>organizations working for the common good outside the control of government or business interests</meaning></definition>
+    <definition id="def-00002"><term>nongovernmental organization (NGO)</term> <meaning>a transnational group or entity whose members are private citizens working together on a common interest</meaning></definition>
+    <definition id="def-00003"><term>transnational</term> <meaning>interactions across state boundaries</meaning></definition>
+    </glossary>
 </document>
