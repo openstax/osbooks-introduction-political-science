@@ -93,10 +93,10 @@
     <colspec colnum="4" colname="c4"/>
     <thead>
     <row>
-    <entry>Year</entry>
-    <entry>Location</entry>
-    <entry>Subjects Discussed</entry>
-    <entry>Participating Countries</entry>
+    <entry align="left">Year</entry>
+    <entry align="left">Location</entry>
+    <entry align="left">Subjects Discussed</entry>
+    <entry align="left">Participating Countries</entry>
     </row>
     </thead>
     <tbody>
@@ -163,7 +163,6 @@
     <para id="para-00048">An important task of the WTO is managing the dispute settlement process. Trade relations often involve conflicts, and having an international institution to manage these conflicts in accordance with an agreed-upon legal foundation has proven beneficial. The WTO’s procedure underscores the rule of law, and it makes the trading system more secure and predictable. Dispute settlement is the central pillar of the multilateral trading system and one of WTO’s main contributions to the stability of the global economy. Without a means of settling disputes, the rules-based system would be less effective because there would be no way to enforce those rules.</para>
     <note class="meet-professional" id="note-00003">
     <title>Laíssa Vasconcelos, International Trade Coordinator</title>
-    <para id="para-00058"> </para>
     <para id="para-00049">International grain commerce feeds the world. During the COVID-19 pandemic, the Latin American grain supply chain did not stop working. The industry’s hard work and adaptation abilities made the maintenance of the supply of grains to the world population possible.</para>
     <para id="para-00050">Ensuring international grain supply is part of Laíssa Vasconcelos’s day-to-day work. Laíssa is an international trade coordinator at a subsidiary of a multinational corporation in Brazil that exports grains produced in Latin America all over the world.</para>
     <para id="para-00051"><emphasis effect="italics">Please explain what you do for your organization.</emphasis><newline/>I’m an international trade coordinator. I coordinate grain purchase contracts and export operations at a subsidiary of a large corporation in Brazil. In addition to managing internal purchases and exports, I support offshore operations and international arbitration panels, and I have an advisory role on the company’s <term id="term-00068">Environmental, Social, and Governance (ESG)</term> committee. ESG analyses look at how companies affect the environment and society and also how governance within the company occurs—for example, if the company is promoting equity and diversity. Investors are increasingly relying on ESG indicators to make investment decisions.</para>
