@@ -1,4 +1,5 @@
-<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
+<?xml version="1.0"?>
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml" authors="Mark Carl Rom ,Masaki Hidaka ,Rachel Bzostek Walker">
   <col:metadata>
     <md:title>Introduction to Political Science</md:title>
     <md:slug>introduction-political-science</md:slug>
