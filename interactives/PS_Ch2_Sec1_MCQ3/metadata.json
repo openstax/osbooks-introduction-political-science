@@ -1,0 +1,24 @@
+{
+  "errata_id": "c8b05f8af7599b54581c8edd8a792e645095f3891a83a25a86fd1b64a6a7b065",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:02-01-02",
+    "context-cnxmod:f28c3d79-632e-4b9b-bee3-7c196a316101",
+    "lo:stax-polisci:02-01-04",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:2-1-what-goals-should-we-seek-in-politics"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "02-01-02",
+        "02-01-04"
+      ]
+    }
+  ],
+  "context": [
+    "m00009"
+  ]
+}
