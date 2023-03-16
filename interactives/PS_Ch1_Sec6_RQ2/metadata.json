@@ -1,0 +1,22 @@
+{
+  "errata_id": "2f857cda30ae69e8a36be88ad0266b9793f97609d67728027b482863c38fd137",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:b4f0fda9-0e20-4789-8165-e8c1ab11118f",
+    "lo:stax-polisci:1-6-4",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:1-6-individuals-groups-institutions-and-international-relations"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "1-6-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00007"
+  ]
+}
