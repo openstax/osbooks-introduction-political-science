@@ -1,0 +1,24 @@
+{
+  "errata_id": "ee8d400dfbd568ea43485615d9876e584cce0b69dbd8e25e8b60b47709ed5906",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:81be6e4a-2f32-4bd9-82b5-df3befd51a99",
+    "lo:stax-polisci:09-01-03",
+    "lo:stax-polisci:09-01-01",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:9-1-what-do-legislatures-do"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "09-01-03",
+        "09-01-01"
+      ]
+    }
+  ],
+  "context": [
+    "m00047"
+  ]
+}
