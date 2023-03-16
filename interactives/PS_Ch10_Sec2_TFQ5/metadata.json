@@ -1,0 +1,22 @@
+{
+  "errata_id": "75cc49a4372d4b41a36d33aa95340532847475a1e2e3ce2136cf41e575366e4c",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:10-02-01",
+    "context-cnxmod:5d7ab428-e67a-4228-ae11-c8cc450ec484",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:10-2-the-executive-in-presidential-regimes"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "10-02-01"
+      ]
+    }
+  ],
+  "context": [
+    "m00053"
+  ]
+}
