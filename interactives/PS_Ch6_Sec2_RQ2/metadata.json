@@ -1,0 +1,24 @@
+{
+  "errata_id": "e3964a993bea1602fd9ec1a156b7e406bc23a7e11ae47b7033de05c996c23b4f",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:6-2-1",
+    "context-cnxmod:32b9bdf2-f5e3-434a-a3b6-38cd30a7c44a",
+    "lo:stax-polisci:6-2-3",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:6-2-political-culture-how-people-express-their-political-identity"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "6-2-1",
+        "6-2-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00031"
+  ]
+}
