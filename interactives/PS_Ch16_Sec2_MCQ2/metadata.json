@@ -1,0 +1,22 @@
+{
+  "errata_id": "01bf1602e9ed8a17e5352e44e2151e05788dbedf9a416c430cf6c5603c53a89b",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:ed931496-47ee-4c51-9b31-4812ef731f51",
+    "lo:stax-polisci:16-2-2",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:16-2-the-advent-of-the-liberal-economy"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "16-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00093"
+  ]
+}
