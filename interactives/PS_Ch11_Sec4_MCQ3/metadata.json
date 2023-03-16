@@ -1,0 +1,22 @@
+{
+  "errata_id": "482b64df96d8e5234f52e056f600c3769bd6cd75b1e788988be92c6fa0ab9e29",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:e8d4f0f5-3b57-45d3-a081-1cb1acbf31d2",
+    "lo:stax-polisci:11-04-04",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:11-4-criminal-versus-civil-laws"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "11-04-04"
+      ]
+    }
+  ],
+  "context": [
+    "m00063"
+  ]
+}
