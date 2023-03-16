@@ -1,0 +1,23 @@
+{
+  "errata_id": "b799c86d7e080af3e248d8f063e56355186c95d8ae99e9bfed6de67f93471c6a",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "assignment-type:homework",
+    "context-cnxmod:50c33a69-340c-41c4-afb2-6552360c9c29",
+    "lo:stax-polisci:15-6-3",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:15-6-non-state-actors-beyond-ngos"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "15-6-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00090"
+  ]
+}
