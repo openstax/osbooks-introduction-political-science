@@ -1,0 +1,24 @@
+{
+  "errata_id": "724e3eeddfd109fa5bf5a1bd6e3488d65941e11d17962d3e1f78efc6fab5026c",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:c3456f52-48ed-41b6-b437-ecab91383b8f",
+    "lo:stax-polisci:11-02-02",
+    "lo:stax-polisci:11-02-03",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:11-2-how-does-the-judiciary-take-action"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "11-02-02",
+        "11-02-03"
+      ]
+    }
+  ],
+  "context": [
+    "m00061"
+  ]
+}
