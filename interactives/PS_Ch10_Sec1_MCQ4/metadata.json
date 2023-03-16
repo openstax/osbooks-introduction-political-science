@@ -1,0 +1,22 @@
+{
+  "errata_id": "d5a2abe20d3221c6ee3cf51a4b20a638aee7906262e7c403f45fd62d20db373b",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:10-01-01",
+    "context-cnxmod:a0a966af-a16e-43fa-8240-5bb3171c2905",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:10-1-democracies-parliamentary-presidential-and-semi-presidential-regimes"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "10-01-01"
+      ]
+    }
+  ],
+  "context": [
+    "m00052"
+  ]
+}
