@@ -1,0 +1,22 @@
+{
+  "errata_id": "5a554f8f8fd6502207d63eea216c066a231084ca79cc6b84702d4b5d56e332a6",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:f5614418-dc2d-4a3f-9747-b2dddaeac242",
+    "lo:stax-polisci:6-4-6",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:6-4-collective-action-problems-the-problem-of-incentives"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "6-4-6"
+      ]
+    }
+  ],
+  "context": [
+    "m00033"
+  ]
+}
