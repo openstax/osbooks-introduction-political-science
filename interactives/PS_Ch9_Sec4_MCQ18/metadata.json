@@ -1,0 +1,22 @@
+{
+  "errata_id": "8d6e970d680f24bba74b3991e49a725bd4f6d74d0bd04bc55b4c8a9ad66da722",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:09-04-01",
+    "context-cnxmod:4970bd6c-6625-4b40-b171-71a4c0ede596",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:9-4-the-decline-of-legislative-influence"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "09-04-01"
+      ]
+    }
+  ],
+  "context": [
+    "m00050"
+  ]
+}
