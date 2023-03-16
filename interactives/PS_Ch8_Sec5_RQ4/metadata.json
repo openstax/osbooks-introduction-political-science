@@ -1,0 +1,22 @@
+{
+  "errata_id": "4e94ef170223425e07cb97b89b85d01fba093069422ac05d6b1153d6808e28d7",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:07861c84-1c1b-4c72-82c5-c53749a0c430",
+    "lo:stax-polisci:8-5-4",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:8-5-what-are-elections-and-who-participates"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "8-5-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00044"
+  ]
+}
