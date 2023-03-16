@@ -1,0 +1,22 @@
+{
+  "errata_id": "a428eb17ce50d67410419f4ad141d8747c952ebec57e8e367e0d99265f28780e",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:f06136d1-bd5a-4cb0-8117-644b795a8b4f",
+    "lo:stax-polisci:14-6-2",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:14-6-the-liberal-and-social-worldview"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "14-6-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00082"
+  ]
+}
