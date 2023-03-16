@@ -1,0 +1,22 @@
+{
+  "errata_id": "ee4e8e1f30ddac9a5ddec1cdc0fcb54d651a19fdfe76a798ac64102255edc400",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:bb3f6504-785f-4c0a-83f8-2607cdfc8422",
+    "lo:stax-polisci:10-05-03",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:10-5-semi-presidential-regimes"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "10-05-03"
+      ]
+    }
+  ],
+  "context": [
+    "m00056"
+  ]
+}
