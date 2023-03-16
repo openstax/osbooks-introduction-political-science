@@ -1,0 +1,22 @@
+{
+  "errata_id": "1ffc9ed5d397c2ba4dd3485963afd46a245a47347028525dc481875863d8487d",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:7-2-1",
+    "context-cnxmod:f10d2509-9bc8-4624-b032-bda4a4213fa3",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:7-2-political-culture-and-majority-minority-relations"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "7-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00037"
+  ]
+}
