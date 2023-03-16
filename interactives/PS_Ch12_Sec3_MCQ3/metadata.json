@@ -1,0 +1,22 @@
+{
+  "errata_id": "117c6758bc79b46d28e6c001ab766d1cb06dd6c27364a75f7f469c1d0f0d913f",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:51f2c003-4f12-4969-abe1-5bbf47a3c794",
+    "lo:stax-polisci:12-03-02",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:12-3-how-do-media-and-elections-interact"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "12-03-02"
+      ]
+    }
+  ],
+  "context": [
+    "m00069"
+  ]
+}
