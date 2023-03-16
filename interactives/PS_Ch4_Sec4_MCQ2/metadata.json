@@ -1,0 +1,24 @@
+{
+  "errata_id": "6efc60013ef2642774629645838053fc0f2c2c210ecdbce1de246f1afbad8010",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:04-04-01",
+    "lo:stax-polisci:04-04-02",
+    "context-cnxmod:a6f9c81e-9afe-411f-95bc-8a66ddfc1547",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:4-4-freedom-of-movement"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "04-04-01",
+        "04-04-02"
+      ]
+    }
+  ],
+  "context": [
+    "m00099"
+  ]
+}
