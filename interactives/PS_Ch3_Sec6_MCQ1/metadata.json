@@ -1,0 +1,23 @@
+{
+  "errata_id": "ec4e89681fe1084483d1d49f44552090c9da0002ccbc2978b1baa3935ae5f7c9",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "assignment-type:homework",
+    "lo:stax-polisci:3-6-1",
+    "context-cnxmod:7b5a04f7-f624-4522-9fd9-50ee6671163a",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:3-6-contemporary-ideologies-further-to-the-political-left"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "3-6-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00104"
+  ]
+}
