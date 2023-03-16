@@ -1,0 +1,22 @@
+{
+  "errata_id": "70cd96ab02bb799fa7b7a0e1336cf35edc645dbcb166b1f745a9187c241d3dc4",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:04-01-01",
+    "context-cnxmod:2366469e-b2e4-42e6-8707-9324903a85ee",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:4-1-the-freedom-of-the-individual"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "04-01-01"
+      ]
+    }
+  ],
+  "context": [
+    "m00020"
+  ]
+}
