@@ -1,0 +1,22 @@
+{
+  "errata_id": "9b612dd385856d6b658216660dcded6ed7af5f6993e3ef680c2c1ecbf653fd2c",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:e78bef85-8aee-4380-a6e7-3dc411f87eb6",
+    "lo:stax-polisci:12-02-02",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:12-2-types-of-media-and-the-changing-media-landscape"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "12-02-02"
+      ]
+    }
+  ],
+  "context": [
+    "m00068"
+  ]
+}
