@@ -1,0 +1,23 @@
+{
+  "errata_id": "8e26fb43f44f818ed8ec9d1dbfd3d925b0f79aef29c2702a7b4d5f736e3087b7",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "assignment-type:homework",
+    "lo:stax-polisci:3-2-1",
+    "context-cnxmod:350d66d3-7303-4496-afaa-631105da7e65",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:3-2-the-laws-of-nature-and-the-social-contract"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "3-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00017"
+  ]
+}
