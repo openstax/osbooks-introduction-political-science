@@ -1,0 +1,24 @@
+{
+  "errata_id": "0e7f1269f8611fc35feee18a1ba28e7f26ece3e5e29bd90b310d3798d411cf87",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:ee3c0f47-fc34-4f2e-9545-6a114b759b6c",
+    "lo:stax-polisci:02-04-02",
+    "lo:stax-polisci:02-04-03",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:2-4-the-importance-of-context-for-political-decisions"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "02-04-02",
+        "02-04-03"
+      ]
+    }
+  ],
+  "context": [
+    "m00014"
+  ]
+}
