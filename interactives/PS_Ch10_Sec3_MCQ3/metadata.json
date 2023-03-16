@@ -1,0 +1,24 @@
+{
+  "errata_id": "9b4f422142a7e805ba4e78b6e19d5389283023541c7cf5955557f21fae1c078a",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:10-03-01",
+    "context-cnxmod:c109cf0d-561e-430f-9c2b-056fe1bd494d",
+    "lo:stax-polisci:10-03-03",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:10-3-the-executive-in-parliamentary-regimes"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "10-03-01",
+        "10-03-03"
+      ]
+    }
+  ],
+  "context": [
+    "m00054"
+  ]
+}
