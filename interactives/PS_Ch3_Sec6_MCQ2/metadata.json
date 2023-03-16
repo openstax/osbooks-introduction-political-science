@@ -1,0 +1,23 @@
+{
+  "errata_id": "dfe741ccb9ac55906d8590804f398d49df6772e2f8f5032768d7db54e39a7ae9",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "assignment-type:homework",
+    "lo:stax-polisci:3-5-2",
+    "context-cnxmod:b8d09049-6381-4839-9eb1-bcad72bf57c6",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:3-5-contemporary-democratic-liberalism"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "3-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00103"
+  ]
+}
