@@ -1,0 +1,23 @@
+{
+  "errata_id": "6082d25fbaf0c1068ec6de078ddd28f1a885e7b2b8db3f11601b24174d51ac7c",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:991511f3-c572-4af1-b4cf-1490e696da7f",
+    "assignment-type:homework",
+    "lo:stax-polisci:12-4-2",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:12-4-the-internet-and-social-media"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "12-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00070"
+  ]
+}
