@@ -1,0 +1,22 @@
+{
+  "errata_id": "7d85db539764b2e5b9e33e0894610400ca4559fbcae0104c73b013434918b649",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:148667ab-0be8-4e1a-94de-2f5e518ab92e",
+    "lo:stax-polisci:6-5-1",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:6-5-resolving-collective-action-problems"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "6-5-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00034"
+  ]
+}
