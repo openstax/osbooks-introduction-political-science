@@ -1,0 +1,22 @@
+{
+  "errata_id": "ac268d22602359db83bf35dd0b4dd4ae5c61ef7eed09d101285fa162b439eae8",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:1-5-1",
+    "context-cnxmod:fd75dd37-853f-49fa-b3b1-c35c57df96ae",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:1-5-empirical-political-science"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "1-5-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00006"
+  ]
+}
