@@ -1,0 +1,22 @@
+{
+  "errata_id": "e7499e3851c34794c6dd706d15f6b5ca23ef4b10f2bfb5644d6d2e4867db877a",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:7-3-2",
+    "context-cnxmod:26a6b6b5-ea98-4485-acd8-796ed4563b86",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:7-3-civil-rights-abuses"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "7-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00038"
+  ]
+}
