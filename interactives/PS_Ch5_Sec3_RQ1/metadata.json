@@ -1,0 +1,22 @@
+{
+  "errata_id": "4943bc78a806e02db1abe2359b979620de5779251c89e91a39f452ee8705f28f",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:5-3-1",
+    "context-cnxmod:1893b1bb-e678-46f3-b7ba-1e0f7415622f",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:5-3-how-do-individuals-participate-other-than-voting"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "5-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00025"
+  ]
+}
