@@ -1,0 +1,24 @@
+{
+  "errata_id": "6d6120ef4b6a7a5215dea9357826e913423a433d4d600a877c30563dc03bd2e0",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:7-4-2",
+    "context-cnxmod:0e4c8b82-b7a9-4747-ae71-43f9b78696e0",
+    "lo:stax-polisci:7-4-1",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:7-4-civil-rights-movements"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "7-4-2",
+        "7-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00107"
+  ]
+}
