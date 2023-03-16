@@ -1,0 +1,22 @@
+{
+  "errata_id": "b9a95e489f1694ebf8a5d03f2ccf8b5df921b3d17cdda89b987dbcbd001d1247",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:980776ef-f303-4a11-af06-2ef2aa4fce56",
+    "lo:stax-polisci:5-1-2",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:5-1-what-is-political-participation"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "5-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00023"
+  ]
+}
