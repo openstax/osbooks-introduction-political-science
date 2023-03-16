@@ -1,0 +1,22 @@
+{
+  "errata_id": "340d2ca91beccfd5b74b58cb63f693df55f75623191255747610d06a19b36de6",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:01c17c99-e4eb-4d5e-9b67-f70eca9e7522",
+    "lo:stax-polisci:7-1-5",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:7-1-civil-rights-and-constitutionalism"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "7-1-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00036"
+  ]
+}
