@@ -1,0 +1,22 @@
+{
+  "errata_id": "703e84e981c61552c088736f5e39804cb37a27bfef1c44ee2832c82e2787267a",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:11-01-02",
+    "context-cnxmod:60fc8971-b4da-4cc3-b5a4-a77b3ca860a1",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:11-1-what-is-the-judiciary"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "11-01-02"
+      ]
+    }
+  ],
+  "context": [
+    "m00060"
+  ]
+}
