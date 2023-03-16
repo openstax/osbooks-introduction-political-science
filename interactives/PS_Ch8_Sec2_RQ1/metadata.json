@@ -1,0 +1,22 @@
+{
+  "errata_id": "5f112a063299486613aa2e27faf5a2d9e9473fc67cdaff4847d6803bb8cda8c6",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:8-2-1",
+    "context-cnxmod:d6a92cde-0c4d-4bcf-9e4e-bcb5ef32e512",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:8-2-what-are-the-pros-and-cons-of-interest-groups"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "8-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00041"
+  ]
+}
