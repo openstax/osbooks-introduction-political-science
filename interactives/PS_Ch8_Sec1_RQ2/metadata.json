@@ -1,0 +1,22 @@
+{
+  "errata_id": "e70742e8ad6fa2ac92f28e7ec338a7364247f4459516394fd3ff7a63ea38dff0",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:72f45726-f685-4ee6-9c51-43a0a013ca4d",
+    "lo:stax-polisci:8-1-2",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:8-1-what-is-an-interest-group"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "8-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00040"
+  ]
+}
