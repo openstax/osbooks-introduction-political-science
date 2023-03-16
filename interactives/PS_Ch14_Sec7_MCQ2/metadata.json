@@ -1,0 +1,22 @@
+{
+  "errata_id": "d8470d878d49355e06ef439dc1c2c4502ed992623e4dc86cd883c31985ef7cf9",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:a3e2af2f-ea72-4952-ab9a-6e9fe8dc9f83",
+    "lo:stax-polisci:14-7-2",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:14-7-critical-worldviews"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "14-7-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00083"
+  ]
+}
