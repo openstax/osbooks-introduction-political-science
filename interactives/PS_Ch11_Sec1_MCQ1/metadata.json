@@ -1,0 +1,23 @@
+{
+  "errata_id": "60cf41dfd4bc9adb5cbb0bfa12c578bad7a8c88c9666bd78e5adf74c31acf192",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:11-01-02",
+    "context-cnxmod:60fc8971-b4da-4cc3-b5a4-a77b3ca860a1",
+    "assignment-type:homework",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:11-1-what-is-the-judiciary"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "11-01-02"
+      ]
+    }
+  ],
+  "context": [
+    "m00060"
+  ]
+}
