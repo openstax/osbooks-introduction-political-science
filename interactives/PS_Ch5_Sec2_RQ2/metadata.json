@@ -1,0 +1,22 @@
+{
+  "errata_id": "a40030d2c9a81fc1bee345a167a3b3f12f4536ebc27c15a1085ab6e000d50dc8",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:f3b9bdc5-7ba5-41ca-b153-aed1c70ea47a",
+    "lo:stax-polisci:5-2-2",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:5-2-what-limits-voter-participation-in-the-united-states"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "5-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00024"
+  ]
+}
