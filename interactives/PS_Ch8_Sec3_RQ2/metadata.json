@@ -1,0 +1,22 @@
+{
+  "errata_id": "bf4e51cebc6735a7ae2fd1567987665711b652b97a76532d39a8bd0fdae9bb31",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:a84b4d39-7c4f-4c80-8a35-79d5d63affc8",
+    "lo:stax-polisci:8-3-2",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:8-3-political-parties"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "8-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00042"
+  ]
+}
