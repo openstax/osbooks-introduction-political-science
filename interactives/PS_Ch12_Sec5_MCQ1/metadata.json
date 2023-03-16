@@ -1,0 +1,22 @@
+{
+  "errata_id": "d677685a47d4e230605da013a11881074a8d5a7e974c3a12a593fe90fa7ea347",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:12-05-02",
+    "context-cnxmod:4a3c0f29-d809-42bb-8ee4-d99ce7fafa35",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:12-5-declining-global-trust-in-the-media"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "12-05-02"
+      ]
+    }
+  ],
+  "context": [
+    "m00071"
+  ]
+}
