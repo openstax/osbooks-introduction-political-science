@@ -1,0 +1,22 @@
+{
+  "errata_id": "6a6907a41ecbaab906955bc104cdf97d15cdca0e21888bbc9ee65c6857d95768",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:14-3-3",
+    "context-cnxmod:4f423224-ea40-4958-b70e-5544d8c92de3",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:14-3-sovereignty-and-anarchy"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "14-3-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00079"
+  ]
+}
