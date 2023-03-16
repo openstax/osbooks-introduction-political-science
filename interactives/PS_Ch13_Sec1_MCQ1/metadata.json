@@ -1,0 +1,22 @@
+{
+  "errata_id": "495a6d301408638443246d99814c1595f26b4c7b9c9532bb3e9e37504fa41c3a",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:13-1-1",
+    "context-cnxmod:a3656e40-54ad-474e-aa61-7686ec6098c8",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:13-1-contemporary-government-regimes-power-legitimacy-and-authority"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "13-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00073"
+  ]
+}
