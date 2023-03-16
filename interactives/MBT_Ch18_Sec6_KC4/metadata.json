@@ -1,0 +1,23 @@
+{
+  "errata_id": "d3bebd2fd08fb45ffc905b0f1af97e9ca8428a7529464ec5012ecb4ee7dde82a",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:108d5151-1570-4c07-9903-645aee3c0ca6",
+    "lo:stax-polisci:18-6-1",
+    "lo:stax-polisci:18-6-2",
+    "lo:stax-polisci:18-6-3",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:18-6-recent-trends-in-wholesaling"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "18-6-1",
+        "18-6-2",
+        "18-6-3"
+      ]
+    }
+  ]
+}
