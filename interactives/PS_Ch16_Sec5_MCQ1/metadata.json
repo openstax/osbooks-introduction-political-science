@@ -1,0 +1,22 @@
+{
+  "errata_id": "93a62af61f56a5f1ef17ecea82c996540c1db33eece57a599d1cf813099e34d9",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:16-5-4",
+    "context-cnxmod:7ab3c906-50a2-49a4-8c5b-25c6c5e45a62",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:16-5-from-the-1990s-to-the-2020s-current-issues-in-ipe"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "16-5-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00096"
+  ]
+}
