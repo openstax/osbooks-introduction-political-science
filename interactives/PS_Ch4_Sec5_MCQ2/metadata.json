@@ -1,0 +1,22 @@
+{
+  "errata_id": "7b8c692d16a9ce0e1a37bd06b6361ff688df86c3266c839780b517014aa81a15",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:04-05-01",
+    "context-cnxmod:8767d8df-1401-4a9a-9a63-6b5ae152f083",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:4-5-the-rights-of-the-accused"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "04-05-01"
+      ]
+    }
+  ],
+  "context": [
+    "m00100"
+  ]
+}
