@@ -1,0 +1,22 @@
+{
+  "errata_id": "056bd8c15ff2fa34c4f65ac55596efdd5d1e252be5838e4b3bde413cccddc919",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:1-4-1",
+    "context-cnxmod:33e3047b-ad8c-4251-b19b-ac8a7def6572",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:1-4-normative-political-science"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "1-4-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00005"
+  ]
+}
