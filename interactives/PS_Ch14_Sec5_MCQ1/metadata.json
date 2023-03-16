@@ -1,0 +1,22 @@
+{
+  "errata_id": "13937439cc1d93464965a5e37c82fec68eb72f225e7fc4b1004b927d1678f97e",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:14-5-2",
+    "context-cnxmod:b95b388d-c605-42f5-b063-0964ee0ecb50",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:14-5-the-realist-worldview"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "14-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00081"
+  ]
+}
