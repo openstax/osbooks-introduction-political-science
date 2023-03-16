@@ -1,0 +1,24 @@
+{
+  "errata_id": "2c1b4054bc87b31659d87225e882f7f904fcf29d18b9ed80ab2d1ff2263aa8a4",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:11-03-01",
+    "lo:stax-polisci:11-03-03",
+    "context-cnxmod:921b6cf2-071b-41c5-b4d5-b513d417ffea",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:11-3-types-of-legal-systems-around-the-world"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "11-03-01",
+        "11-03-03"
+      ]
+    }
+  ],
+  "context": [
+    "m00062"
+  ]
+}
