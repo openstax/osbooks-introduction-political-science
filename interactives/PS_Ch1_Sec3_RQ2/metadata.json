@@ -1,0 +1,22 @@
+{
+  "errata_id": "3911f43de537d67654d4b05f101a202419a113dfee0d838e1fe9b6b0a387c213",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:1-3-2",
+    "context-cnxmod:89fe56e3-f237-4084-8042-bf314112abac",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:1-3-political-science-the-systematic-study-of-politics"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "1-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00004"
+  ]
+}
