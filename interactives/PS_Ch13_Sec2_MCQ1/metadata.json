@@ -1,0 +1,22 @@
+{
+  "errata_id": "d56cf74fa6ebf39d8d0f6341ac038037ba9062671161a73b88241a892d18363e",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:13-2-2",
+    "context-cnxmod:da60cfec-d517-43aa-9248-d1b6c4eb8b90",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:13-2-categorizing-contemporary-regimes"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "13-2-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00074"
+  ]
+}
