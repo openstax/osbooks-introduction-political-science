@@ -1,0 +1,22 @@
+{
+  "errata_id": "790055e2e1a583c3916f0a2d061c4734f147d12058c4dd3c3f64373d7d16e9be",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:6-3-1",
+    "context-cnxmod:b9ea8056-f661-4aa0-a5d2-a8c36aa1d5b1",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:6-3-collective-dilemmas-making-group-decisions"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "6-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00032"
+  ]
+}
