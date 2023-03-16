@@ -1,0 +1,22 @@
+{
+  "errata_id": "b1ab3f9c9926b16af3b4072cef01e56b641a36c2360ddb66cd26fceffadc6084",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:2b760601-9848-457b-8543-c572f061b6e9",
+    "lo:stax-polisci:09-03-02",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:9-3-what-is-the-difference-between-unicameral-and-bicameral-systems"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "09-03-02"
+      ]
+    }
+  ],
+  "context": [
+    "m00049"
+  ]
+}
