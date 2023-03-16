@@ -1,0 +1,23 @@
+{
+  "errata_id": "603824d7cd0e2df824684ae97f4d7c8b6efe25298dcd1f86947560a1ccebd7a5",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "assignment-type:homework",
+    "context-cnxmod:ecddcd5e-17b3-4a18-bcbc-006cdd6db1f5",
+    "lo:stax-polisci:15-1-3",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:15-1-the-problem-of-global-governance"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "15-1-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00085"
+  ]
+}
