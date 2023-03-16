@@ -1,0 +1,23 @@
+{
+  "errata_id": "3df64c8bd40a29644562493127bbc786cd3cde008b220f9015ce8072184cab83",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "assignment-type:homework",
+    "context-cnxmod:6bf523df-aa8e-41cc-bdcc-78fd895a8a6f",
+    "lo:stax-polisci:15-3-5",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:15-3-the-united-nations-and-global-intergovernmental-organizations-igos"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "15-3-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00087"
+  ]
+}
