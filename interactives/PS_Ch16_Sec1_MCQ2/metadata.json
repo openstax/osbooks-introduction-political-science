@@ -1,0 +1,24 @@
+{
+  "errata_id": "6dcecb50923f53f95889096d9fe6bb4c5c14e30a6c11fb06208327472183f28b",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:c928c980-b11f-4060-bf24-4fa1ef9c67d7",
+    "lo:stax-polisci:16-1-2",
+    "lo:stax-polisci:16-1-3",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:16-1-the-origins-of-international-political-economy"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "16-1-2",
+        "16-1-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00092"
+  ]
+}
