@@ -1,0 +1,24 @@
+{
+  "errata_id": "59f2d04793c57a37f21d915b4f443327c25bee9d13a6f1151cd1d1f2e79e89b6",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:25dff5e8-e67c-4c57-83de-5de610147079",
+    "lo:stax-polisci:10-07-03",
+    "lo:stax-polisci:10-07-05",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:10-7-what-are-the-purpose-and-function-of-bureaucracies"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "10-07-03",
+        "10-07-05"
+      ]
+    }
+  ],
+  "context": [
+    "m00058"
+  ]
+}
