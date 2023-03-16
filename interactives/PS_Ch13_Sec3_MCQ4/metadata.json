@@ -1,0 +1,24 @@
+{
+  "errata_id": "20902e4c5c647fe27528befecbf6a04d94bb3ca0a606254c32d47d1a640f38cc",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:13-3-3",
+    "context-cnxmod:89e86e41-1e73-4043-839a-4d3bffd3a8e0",
+    "lo:stax-polisci:13-3-2",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:13-3-recent-trends-illiberal-representative-regimes"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "13-3-3",
+        "13-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00075"
+  ]
+}
