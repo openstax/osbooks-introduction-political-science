@@ -1,0 +1,22 @@
+{
+  "errata_id": "4a8532d8556f211e11f4572da638f13b39b9635b180769770006791fbe3f35b8",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:1-2-1",
+    "context-cnxmod:2d448fb9-9c9e-415a-b801-3a51c66b48b5",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:1-2-public-policy-public-interest-and-power"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "1-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00003"
+  ]
+}
