@@ -1,0 +1,22 @@
+{
+  "errata_id": "02694f50ce05b556c2da8c505e7bb1f18893668b09ffd6db7baed42df03e9f60",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:55eee94a-ae76-47ca-b2af-7d810e9509e6",
+    "lo:stax-polisci:1-1-1",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:1-1-defining-politics-who-gets-what-when-where-how-and-why"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "1-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00002"
+  ]
+}
