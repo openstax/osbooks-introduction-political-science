@@ -1,0 +1,23 @@
+{
+  "errata_id": "62b35c4a375cb1c0351131c3407fad41a75e45ea2a7f1a0cf6c1f36ca1480003",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "assignment-type:homework",
+    "context-cnxmod:9b9b20e7-e2d2-4d01-9e40-453f5a9db8b2",
+    "lo:stax-polisci:15-4-3",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:15-4-how-do-regional-igos-contribute-to-global-governance"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "15-4-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00088"
+  ]
+}
