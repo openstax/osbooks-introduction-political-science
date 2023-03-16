@@ -1,0 +1,22 @@
+{
+  "errata_id": "d07cdc80d7e6013ddeff70bc3a20ff6a19e0a4cefa8dc261855e3a991696a53e",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:8-6-1",
+    "context-cnxmod:76082bc1-5087-4023-848a-0e1759154b26",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:8-6-how-do-people-participate-in-elections"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "8-6-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00045"
+  ]
+}
