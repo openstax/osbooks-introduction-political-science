@@ -1,0 +1,22 @@
+{
+  "errata_id": "97a212d05552d5e2cc3d5b4d18d5298037e37d811e12b06e60d008003c901248",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:68290e2f-50d9-45b3-8f15-158ce7b00232",
+    "lo:stax-polisci:09-02-01",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:9-2-what-is-the-difference-between-parliamentary-and-presidential-systems"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "09-02-01"
+      ]
+    }
+  ],
+  "context": [
+    "m00048"
+  ]
+}
