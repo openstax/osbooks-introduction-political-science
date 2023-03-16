@@ -1,0 +1,16 @@
+{
+  "errata_id": "88926d44d7738f198046d088f77bfa43c74e937bd43d5e0e52ad253d1a3e7181",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:04-02-04"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "04-02-04"
+      ]
+    }
+  ]
+}
