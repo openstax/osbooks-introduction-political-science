@@ -1,0 +1,23 @@
+{
+  "errata_id": "e459b64ec046a69759982f11290369f07e16be45f589b8d4b7af4c263bf7a05f",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:e8d4f0f5-3b57-45d3-a081-1cb1acbf31d2",
+    "lo:stax-polisci:11-04-02",
+    "assignment-type:homework",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:11-4-criminal-versus-civil-laws"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "11-04-02"
+      ]
+    }
+  ],
+  "context": [
+    "m00063"
+  ]
+}
