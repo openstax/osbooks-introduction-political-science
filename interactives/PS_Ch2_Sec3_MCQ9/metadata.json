@@ -1,0 +1,22 @@
+{
+  "errata_id": "4138bbadfe55c4f5c3fe7502db45379abbb20f828412913e0284c8936caeea59",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:02-03-01",
+    "context-cnxmod:52d6c10b-8051-4461-88aa-5540f77b76ec",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:2-3-human-behavior-is-partially-predictable"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "02-03-01"
+      ]
+    }
+  ],
+  "context": [
+    "m00013"
+  ]
+}
