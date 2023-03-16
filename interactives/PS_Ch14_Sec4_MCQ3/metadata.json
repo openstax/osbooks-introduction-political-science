@@ -1,0 +1,24 @@
+{
+  "errata_id": "3fd60c25b7fc3d4e19f701a606f767d00726fa63bc8ee861a5ac9f3d921dcbb0",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:14-4-1",
+    "context-cnxmod:9be834ae-a290-4a2f-9266-5c3c46dadcc7",
+    "lo:stax-polisci:14-4-4",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:14-4-using-levels-of-analysis-to-understand-conflict"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "14-4-1",
+        "14-4-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00080"
+  ]
+}
