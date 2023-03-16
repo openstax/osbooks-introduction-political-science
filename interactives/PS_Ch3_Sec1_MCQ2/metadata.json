@@ -1,0 +1,23 @@
+{
+  "errata_id": "3996a68444f665627c510da367b679e085746dbe1316def71957ef302a441392",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "assignment-type:homework",
+    "lo:stax-polisci:3-1-1",
+    "context-cnxmod:e0663e16-259a-4bc7-a334-5269ab47171f",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:3-1-the-classical-origins-of-western-political-ideologies"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "3-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00016"
+  ]
+}
