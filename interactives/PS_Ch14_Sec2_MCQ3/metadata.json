@@ -1,0 +1,22 @@
+{
+  "errata_id": "0b5988ba5721adcf124ad68d12956b0050790cb45265628df906def65c43f1c1",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:7d7b0973-2662-4e61-be8f-bf2b6aa58af5",
+    "lo:stax-polisci:14-2-5",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:14-2-understanding-the-different-types-of-actors-in-the-international-system"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "14-2-5"
+      ]
+    }
+  ],
+  "context": [
+    "m00078"
+  ]
+}
