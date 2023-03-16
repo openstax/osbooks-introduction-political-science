@@ -1,0 +1,22 @@
+{
+  "errata_id": "2a4603d88b0a901ba09a816cb18248f761aa9f166cd396c3264cf8331037999d",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:6-1-1",
+    "context-cnxmod:5c5a1b24-d5bd-48fc-bdf1-5d94c002202a",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:6-1-political-socialization-the-ways-people-become-political"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "6-1-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00030"
+  ]
+}
