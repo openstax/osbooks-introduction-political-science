@@ -1,0 +1,22 @@
+{
+  "errata_id": "4423db110ff663c59bde3a1e6a553ad03e8df70fdd6dd7c1516cb43a54bdc762",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:14-1-2",
+    "context-cnxmod:21274ff8-2e90-4731-9876-53b82b912cd3",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:14-1-what-is-power-and-how-do-we-measure-it"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "14-1-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00077"
+  ]
+}
