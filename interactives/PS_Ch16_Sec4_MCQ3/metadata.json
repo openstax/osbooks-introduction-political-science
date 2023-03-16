@@ -1,0 +1,24 @@
+{
+  "errata_id": "b2b445d43342ef3f4d992a74eb7b9c780802c74184641b8f36d8c84ad86139c3",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:2485fe75-a0fd-4d9d-950c-35042d164b2b",
+    "lo:stax-polisci:16-4-2",
+    "lo:stax-polisci:16-4-3",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:16-4-the-post-cold-war-period-and-modernization-theory"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "16-4-2",
+        "16-4-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00095"
+  ]
+}
