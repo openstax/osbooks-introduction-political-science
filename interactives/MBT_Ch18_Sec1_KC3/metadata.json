@@ -1,0 +1,19 @@
+{
+  "errata_id": "9b4a3de062f42c0bc47680f34a209ef47c71ed887de0719df90715a06d04f925",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:490e604a-2c0e-47c7-8c6b-c706e4b48359",
+    "lo:stax-polisci:18-1-2",
+    "book-slug:principles-marketing",
+    "module-slug:principles-marketing:18-1-retailing-and-the-role-of-retailers-in-the-distribution-channel"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "18-1-2"
+      ]
+    }
+  ]
+}
