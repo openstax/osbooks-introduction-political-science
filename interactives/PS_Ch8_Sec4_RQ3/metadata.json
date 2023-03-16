@@ -1,0 +1,22 @@
+{
+  "errata_id": "6124f7c216620138960c5e085c8e892877413dbb8f9f663219954fde7f0a27b1",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:fb12095f-95b8-4ba4-a644-28108bbd71af",
+    "lo:stax-polisci:8-4-3",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:8-4-what-are-the-limits-of-parties"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "8-4-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00043"
+  ]
+}
