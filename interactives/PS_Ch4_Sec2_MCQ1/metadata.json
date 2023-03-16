@@ -1,0 +1,22 @@
+{
+  "errata_id": "b34bc87267c837aa0b22e6e00d83e5475d949588d8fe14f65df049b5d1d4b6f5",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:04-02-01",
+    "context-cnxmod:b4d6aa54-d4ba-45ef-b327-7dc27e712683",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:4-2-constitutions-and-individual-liberties"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "04-02-01"
+      ]
+    }
+  ],
+  "context": [
+    "m00021"
+  ]
+}
