@@ -1,0 +1,23 @@
+{
+  "errata_id": "7ba86c7a54770bb1e84ac0ae39b95c3bc903a1e7437c29efc37c24d958511072",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "assignment-type:homework",
+    "lo:stax-polisci:3-4-2",
+    "context-cnxmod:30df8281-be23-44bb-a9d5-a414b8216a50",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:3-4-nationalism-communism-fascism-and-authoritarianism"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "3-4-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00102"
+  ]
+}
