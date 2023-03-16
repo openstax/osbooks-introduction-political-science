@@ -1,0 +1,23 @@
+{
+  "errata_id": "4f2d1ef6213a727dda15ed754bf6f6c3d8391b3908af2a1f645f6074ee982624",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:12-01-01",
+    "context-cnxmod:2888c474-1f73-49c1-aa83-97498be657f5",
+    "assignment-type:homework",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:12-1-the-media-as-a-political-institution-why-does-it-matter"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "12-01-01"
+      ]
+    }
+  ],
+  "context": [
+    "m00067"
+  ]
+}
