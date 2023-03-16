@@ -1,0 +1,23 @@
+{
+  "errata_id": "836cb5170c1b1cda605faecaa244a041a772858de82992ad785affcc1997bf93",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "assignment-type:homework",
+    "lo:stax-polisci:15-2-1",
+    "context-cnxmod:b7ea10c8-b12b-437c-b420-04ad65a02ca9",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:15-2-international-law"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "15-2-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00086"
+  ]
+}
