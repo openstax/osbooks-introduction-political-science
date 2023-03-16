@@ -1,0 +1,24 @@
+{
+  "errata_id": "51b014b4ac7a71ad571b397e4822057129680d0b13d7bf87e7d19a8371eaa323",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:11-06-01",
+    "context-cnxmod:578ead6a-8bd2-44e2-9ccf-981e9b8a60dc",
+    "lo:stax-polisci:11-06-05",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:11-6-judicial-review-versus-executive-sovereignty"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "11-06-01",
+        "11-06-05"
+      ]
+    }
+  ],
+  "context": [
+    "m00065"
+  ]
+}
