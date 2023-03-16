@@ -1,0 +1,23 @@
+{
+  "errata_id": "52a8ba4436d2239c106cb03c3e41c7ba7bbcd6bcac3ece296b9adbc8fcb56720",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "assignment-type:homework",
+    "lo:stax-polisci:3-3-2",
+    "context-cnxmod:53586803-6f76-4e76-82c1-06fec2de70e0",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:3-3-the-development-of-varieties-of-liberalism"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "3-3-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00018"
+  ]
+}
