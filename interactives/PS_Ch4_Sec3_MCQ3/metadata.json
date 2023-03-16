@@ -1,0 +1,22 @@
+{
+  "errata_id": "536ae56fef6bfc8ef89a53d76e2809e320c8980e6267919240e13646f48ce690",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:04-03-03",
+    "context-cnxmod:db8c95b4-0183-48d6-9d35-11bd53f8fba5",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:4-3-the-right-to-privacy-self-determination-and-the-freedom-of-ideas"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "04-03-03"
+      ]
+    }
+  ],
+  "context": [
+    "m00098"
+  ]
+}
