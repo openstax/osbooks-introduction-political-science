@@ -1,0 +1,22 @@
+{
+  "errata_id": "9ad72bc08cb43d30bf0db19e690b5cd5293fe6d0f8ba650bb10d2192b80cc518",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:8f511a86-0d40-4bdc-bd2f-2b8a7f77f058",
+    "lo:stax-polisci:11-05-03",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:11-5-due-process-and-judicial-fairness"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "11-05-03"
+      ]
+    }
+  ],
+  "context": [
+    "m00064"
+  ]
+}
