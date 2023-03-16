@@ -1,0 +1,22 @@
+{
+  "errata_id": "6860985d4ed0adfababf7437c20b0656237744abd7c9f588a0f929049f9f7383",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:10-04-01",
+    "context-cnxmod:1a12571a-8b97-4116-9052-67da75bb895b",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:10-4-advantages-disadvantages-and-challenges-of-presidential-and-parliamentary-regimes"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "10-04-01"
+      ]
+    }
+  ],
+  "context": [
+    "m00055"
+  ]
+}
