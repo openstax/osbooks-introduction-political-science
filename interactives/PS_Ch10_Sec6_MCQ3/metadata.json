@@ -1,0 +1,22 @@
+{
+  "errata_id": "80d00aa9027c340af65d4d5ae420f598a5d9b968bcea8167216e88940b5b890d",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:10-06-01",
+    "context-cnxmod:7591403b-2595-449f-9360-99289e7fec12",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:10-6-how-do-cabinets-function-in-presidential-and-parliamentary-regimes"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "10-06-01"
+      ]
+    }
+  ],
+  "context": [
+    "m00057"
+  ]
+}
