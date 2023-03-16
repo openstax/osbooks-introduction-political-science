@@ -1,0 +1,24 @@
+{
+  "errata_id": "a685b294c764d784aed3016ec4f1b511cf9984776033f84a8a850a233f6d2360",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:16-3-2",
+    "context-cnxmod:0863f292-d17e-4bf9-8a37-41bb11ef36a9",
+    "lo:stax-polisci:16-3-1",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:16-3-the-bretton-woods-institutions"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "16-3-2",
+        "16-3-1"
+      ]
+    }
+  ],
+  "context": [
+    "m00094"
+  ]
+}
