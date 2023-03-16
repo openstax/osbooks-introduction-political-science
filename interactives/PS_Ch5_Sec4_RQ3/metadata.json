@@ -1,0 +1,22 @@
+{
+  "errata_id": "6cbf5f12d478a00865d21ca06d5962a2c63290c1e49332fe5e0944687237cd1f",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:a8069eb3-babe-41b0-8cf1-b0fdcac4e4aa",
+    "lo:stax-polisci:5-4-3",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:5-4-what-is-public-opinion-and-where-does-it-come-from"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "5-4-3"
+      ]
+    }
+  ],
+  "context": [
+    "m00026"
+  ]
+}
