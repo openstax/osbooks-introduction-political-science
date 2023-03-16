@@ -1,0 +1,23 @@
+{
+  "errata_id": "c22e144215db27237683129bdd0cefcc1399a2bc14a79af682563acf87434e1e",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "assignment-type:homework",
+    "lo:stax-polisci:3-8-2",
+    "context-cnxmod:eb740205-36b2-4043-890c-047fffbf74b9",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:3-8-political-ideologies-that-reject-political-ideology-scientific-socialism-burkeanism-and-religious-extremism"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "3-8-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00106"
+  ]
+}
