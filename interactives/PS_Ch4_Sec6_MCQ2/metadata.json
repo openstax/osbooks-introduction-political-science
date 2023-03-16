@@ -1,0 +1,24 @@
+{
+  "errata_id": "67fe5b8f502ba9aeccd1957f66ccc85322da81f33ae5602e072cfdb2eff18ac3",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:04-06-01",
+    "lo:stax-polisci:04-06-02",
+    "context-cnxmod:e8d05162-ac12-4796-bc93-2c9170d01803",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:4-6-the-right-to-a-healthy-environment"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "04-06-01",
+        "04-06-02"
+      ]
+    }
+  ],
+  "context": [
+    "m00101"
+  ]
+}
