@@ -1,0 +1,22 @@
+{
+  "errata_id": "1539cefaee4c88b088918fc1c3d01bc12d78f7c1bb2a3b2b4cd4dbdebb23eab8",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:c13d8d5c-5ccf-4df3-9a20-3f8af87f3274",
+    "lo:stax-polisci:5-5-2",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:5-5-how-do-we-measure-public-opinion"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "5-5-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00027"
+  ]
+}
