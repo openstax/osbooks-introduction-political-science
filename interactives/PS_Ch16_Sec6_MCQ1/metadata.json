@@ -1,0 +1,22 @@
+{
+  "errata_id": "778cc21b038de0a66f2cf926290c554c6d8f18af255d9fc1722a19cf4af175d3",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "lo:stax-polisci:16-6-2",
+    "context-cnxmod:aa390d0a-02d8-41d9-8577-659e178d5ca6",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:16-6-considering-poverty-inequality-and-the-environmental-crisis"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "16-6-2"
+      ]
+    }
+  ],
+  "context": [
+    "m00109"
+  ]
+}
