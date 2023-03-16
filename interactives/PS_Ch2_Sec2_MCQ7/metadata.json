@@ -1,0 +1,22 @@
+{
+  "errata_id": "5f39ccf6432c1f0c5bcc990d7adda5bd83d4263364ea1cdbd66ab0aa1aec9b5f",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:c73002bc-69fe-447b-baec-1f4efa285d64",
+    "lo:stax-polisci:02-02-03",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:2-2-why-do-humans-make-the-political-choices-that-they-do"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "02-02-03"
+      ]
+    }
+  ],
+  "context": [
+    "m00010"
+  ]
+}
