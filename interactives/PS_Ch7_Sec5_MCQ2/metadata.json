@@ -1,0 +1,22 @@
+{
+  "errata_id": "0e43a06b866fc0cf371fbca850c814fe7e49308bed2f9852c292bfcaffd9dc1a",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "context-cnxmod:9ad2e619-b2dc-4cf4-92a7-9e60da52feb3",
+    "lo:stax-polisci:7-5-4",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:7-5-how-do-governments-bring-about-civil-rights-change"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "7-5-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00108"
+  ]
+}
