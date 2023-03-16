@@ -1,0 +1,25 @@
+{
+  "errata_id": "5e84079c4601b0fccbc076331d56f07234ec320c045e9309cc568fbc7a5d13e8",
+  "attachments": [],
+  "tags": [
+    "book:stax-polisci",
+    "assignment-type:homework",
+    "context-cnxmod:d3276f8e-ae25-4bd4-ab99-272dc4f5748d",
+    "lo:stax-polisci:15-5-3",
+    "lo:stax-polisci:15-5-4",
+    "book-slug:introduction-political-science",
+    "module-slug:introduction-political-science:15-5-non-state-actors-nongovernmental-organizations-ngos"
+  ],
+  "books": [
+    {
+      "name": "stax-polisci",
+      "lo": [
+        "15-5-3",
+        "15-5-4"
+      ]
+    }
+  ],
+  "context": [
+    "m00089"
+  ]
+}
