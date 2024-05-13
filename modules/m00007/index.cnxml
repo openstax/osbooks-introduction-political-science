@@ -69,9 +69,9 @@
     </section>
     <section class="review-questions" id="sect-00003">
     <title/>
-    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00031"><link class="os-embed" url="#exercise/PS_Ch1_Sec6_RQ1"/></para></problem></exercise>
-    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00032"><link class="os-embed" url="#exercise/PS_Ch1_Sec6_RQ2"/></para></problem></exercise>
-    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00033"><link class="os-embed" url="#exercise/PS_Ch1_Sec6_RQ3"/></para></problem></exercise>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00031"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch1_Sec6_RQ1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00032"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch1_Sec6_RQ2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00033"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch1_Sec6_RQ3"/></para></problem></exercise>
     </section>
     <section class="suggested-readings" id="sect-00004">
     <title/>

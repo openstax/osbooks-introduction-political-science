@@ -56,8 +56,8 @@
     </section>
     <section class="review-questions" id="sect-00005">
     <title/>
-    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00020"><link class="os-embed" url="#exercise/PS_Ch7_Sec1_MCQ1"/></para></problem></exercise>
-    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00021"><link class="os-embed" url="#exercise/PS_Ch7_Sec1_MCQ2"/></para></problem></exercise>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00020"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch7_Sec1_MCQ1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00021"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch7_Sec1_MCQ2"/></para></problem></exercise>
     </section>
     </content>
     <glossary>

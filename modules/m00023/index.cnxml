@@ -71,11 +71,11 @@
     </section>
     <section class="review-questions" id="sect-00007">
     <title/>
-    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00016"><link class="os-embed" url="#exercise/PS_Ch5_Sec1_RQ1"/></para></problem></exercise>
-    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00017"><link class="os-embed" url="#exercise/PS_Ch5_Sec1_RQ2"/></para></problem></exercise>
-    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00018"><link class="os-embed" url="#exercise/PS_Ch5_Sec1_RQ3"/></para></problem></exercise>
-    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00019"><link class="os-embed" url="#exercise/PS_Ch5_Sec1_RQ4"/></para></problem></exercise>
-    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00020"><link class="os-embed" url="#exercise/PS_Ch5_Sec1_RQ5"/></para></problem></exercise>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00016"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch5_Sec1_RQ1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00017"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch5_Sec1_RQ2"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00018"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch5_Sec1_RQ3"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00019"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch5_Sec1_RQ4"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00020"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch5_Sec1_RQ5"/></para></problem></exercise>
     </section>
     </content>
     <glossary>

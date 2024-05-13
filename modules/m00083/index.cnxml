@@ -35,8 +35,8 @@
     </section>
     <section class="review-questions" id="sect-00005">
     <title/>
-    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00010"><link class="os-embed" url="#exercise/PS_Ch14_Sec7_MCQ1"/></para></problem></exercise>
-    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00011"><link class="os-embed" url="#exercise/PS_Ch14_Sec7_MCQ2"/></para></problem></exercise>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00010"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch14_Sec7_MCQ1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00011"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch14_Sec7_MCQ2"/></para></problem></exercise>
     </section>
     <section class="suggested-readings" id="sect-00006">
     <title>Suggested Readings</title>

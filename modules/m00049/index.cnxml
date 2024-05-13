@@ -44,10 +44,10 @@
     </section>
     <section class="review-questions" id="sect-00005">
     <title/>
-    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00012"><link class="os-embed" url="#exercise/PS_Ch9_Sec3_MCQ13"/></para></problem></exercise>
-    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00013"><link class="os-embed" url="#exercise/PS_Ch9_Sec3_MCQ14"/></para></problem></exercise>
-    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00014"><link class="os-embed" url="#exercise/PS_Ch9_Sec3_MCQ15"/></para></problem></exercise>
-    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00015"><link class="os-embed" url="#exercise/PS_Ch9_Sec3_MCQ16"/></para></problem></exercise>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00012"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch9_Sec3_MCQ13"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00013"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch9_Sec3_MCQ14"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00014"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch9_Sec3_MCQ15"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00015"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch9_Sec3_MCQ16"/></para></problem></exercise>
     </section>
     </content>
     <glossary>

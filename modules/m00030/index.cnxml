@@ -95,8 +95,8 @@
     </section>
     <section class="review-questions" id="sect-00006">
     <title/>
-    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00029"><link class="os-embed" url="#exercise/PS_Ch6_Sec1_RQ1"/></para></problem></exercise>
-    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00030"><link class="os-embed" url="#exercise/PS_Ch6_Sec1_RQ2"/></para></problem></exercise>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00029"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch6_Sec1_RQ1"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00030"><link class="os-embed" url="{INTERACTIVES_ROOT}/PS_Ch6_Sec1_RQ2"/></para></problem></exercise>
     </section>
     </content>
     <glossary>
